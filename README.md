@@ -14,11 +14,11 @@ Also note the online presence of some of _Eurostat_ current staff in online libr
 
 **Source**
 
-**All _Eurostat_ bibliographical references are available in the _BibTeX_ [`eurostatref.bib`](eurostatref.bib) file**. 
+**All _Eurostat_ bibliographical references are listed in the _BibTeX_ [`eurostatref.bib`](eurostatref.bib) bibliography database**. 
 
 **Contents**
 
-To reference _Eurostat_ publications, you can use the source file above, for instance:
+To reference _Eurostat_ publications, you can use the source file above, _e.g._:
 
 *  <a name="html"></a>**[*html/*](html)**: in `html`, like in the searchable table [above](#About). Using `Jabref` export option according to the model described in http://www.markschenk.com/tools/jabref/, it is possible to produce such table. For that purpose, the layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
 
@@ -32,15 +32,15 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 </tr>
 </table>
 
-*  <a name="misc"></a>**[*misc/*](misc)**: various other  formatted outputs, namely, [`Endnote`](misc/eurostatref.txt), [`BibTeXML`](misc/eurostatref.xml), [`RIS`](misc/eurostatref.ris), [`csv`](misc/eurostatref.csv), or `MySQL` by exporting the bibliography with your favourite bibliography reference manager. 
+*  <a name="misc"></a>**[*misc/*](misc)**: in many different formats, namely, [`Endnote`](misc/eurostatref.txt), [`BibTeXML`](misc/eurostatref.xml), [`RIS`](misc/eurostatref.ris), [`csv`](misc/eurostatref.csv), or `MySQL` by exporting the `eurostatref.bib` bibliography database with your favourite bibliography reference manager. 
 
 **Notes**
 
-Use your favourite [bibliography reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) to handle/manage the database. For instance, using [`JabRef`](http://www.jabref.org):
+Use your favourite [bibliography reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) to handle/manage the bibliography database. For instance, using [`JabRef`](http://www.jabref.org):
 
 <p align="center">
 <img src="docs/jabref-1.png" alt="jabref publication management as a bibtex file" width="300"><
 <img src="docs/jabref-2.png" alt="jabref publication management as a database" width="300">
 </p>
 
-When editing the `eurostatref.bib` database, use common [bibliography rules](https://en.wikipedia.org/wiki/Citation). Additionally, consider [standard `LaTeX` syntax](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management) for bibliographical references. Last, take into account the existing strings (see header of `eurostatref.bib` file) when adding a publication.
+When editing the `eurostatref.bib` database, use common [bibliography rules](https://en.wikipedia.org/wiki/Citation). Additionally, consider [standard `LaTeX` syntax](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management) for bibliographical references. Last, take into account the existing strings (see header of `eurostatref.bib` bibliography database) when adding a publication.
