@@ -34,6 +34,7 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 <td><kbd><a href="https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html"><img src="docs/html.png" alt="html table" width="400"></a></kbd></td>
 </tr>
 </table>
+
   This table was produced using `Jabref` export option according to the model explained in http://www.markschenk.com/tools/jabref/. For that purpose, the layout files [`tablerefs-estat.layout`](html/tablerefs-estat.layout), [`tablerefs-estat.begin.layout`](html/tablerefs-estat.begin.layout), and [`tablerefs-estat.end.layout`](html/tablerefs-estat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
 
 *  [*misc/*](misc): various other  formatted outputs, namely, [`Endnote`](misc/eurostatref.txt), [`BibTeXML`](misc/eurostatref.xml), [`RIS`](misc/eurostatref.ris), [`csv`](misc/eurostatref.csv), or `MySQL` by exporting the bibliography with your favourite bibliography reference manager. 
