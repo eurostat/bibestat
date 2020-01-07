@@ -18,11 +18,11 @@ Also note the online presence of some of _Eurostat_ current staff in online libr
 
 **Contents**
 
-To reference _Eurostat_ publications, you can use the source file above, _e.g._:
+To reference _Eurostat_ publications, you can use the source file above, for instance:
 
 *  <a name="html"></a>**[*html/*](html)** : in `html`, like in the searchable table [above](#About). With [`JabRef`](http://www.jabref.org) bibliography reference manager, it is possible to produce such a table by adopting the layout model described in http://www.markschenk.com/tools/jabref/. For that purpose, the customised layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are made available. Those can be easily modified so as to export the bibliography to different layout models. 
 
-*  <a name="tex"></a>**[*tex/*](tex)** : in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf`'s below: 
+*  <a name="tex"></a>**[*tex/*](tex)** : in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, generating `pdf`'s like in the examples below: 
 <table>
 <tr>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/alphaydnt-cite.pdf"><img src="docs/alphaydnt.png" alt="alphabetic style, descending year - name - title order" width="240"></a></kbd></td>
@@ -34,12 +34,14 @@ To reference _Eurostat_ publications, you can use the source file above, _e.g._:
 
 *  <a name="misc"></a>**[*misc/*](misc)** : in many different formats, namely, [`Endnote`](misc/eurostatref.txt), [`BibTeXML`](misc/eurostatref.xml), [`RIS`](misc/eurostatref.ris), [`csv`](misc/eurostatref.csv), or `MySQL` by exporting the `eurostatref.bib` bibliography database with your favourite bibliography reference manager. 
 
+* in `Microsoft Word` using the [`Bibtex4Word`](http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html) add-in macro.
+
 **Notes**
 
 Use your favourite [bibliography reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) to handle/manage/edit the bibliography database. For instance, using `JabRef` again:
 
 <p align="center">
-<img src="docs/jabref-1.png" alt="jabref publication management as a bibtex file" width="300"><
+<img src="docs/jabref-1.png" alt="jabref publication management as a bibtex file" width="300">
 <img src="docs/jabref-2.png" alt="jabref publication management as a database" width="300">
 </p>
 
