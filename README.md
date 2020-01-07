@@ -20,7 +20,7 @@ All _Eurostat_ bibliographical references are available in the **_BibTeX_ [`euro
 
 To reference _Eurostat_ publications, you can use the source file above, for instance:
 
-*  <a name="html"></a>**[*html/*](html)**: in `html`, like in the searchable table [above](#About)). Using `Jabref` export option according to the model explained in http://www.markschenk.com/tools/jabref/, it is possible to produce such table. For that purpose, the layout files [`tablerefs-estat.layout`](html/tablerefs-estat.layout), [`tablerefs-estat.begin.layout`](html/tablerefs-estat.begin.layout), and [`tablerefs-estat.end.layout`](html/tablerefs-estat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
+*  <a name="html"></a>**[*html/*](html)**: in `html`, like in the searchable table [above](#About)). Using `Jabref` export option according to the model explained in http://www.markschenk.com/tools/jabref/, it is possible to produce such table. For that purpose, the layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
 
 *  <a name="tex"></a>**[*tex/*](tex)**: in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf`'s below: 
 <table>
