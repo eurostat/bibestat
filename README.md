@@ -6,7 +6,7 @@ _Eurostat_ bibliographical footprint.
 
 **<a name="About"></a>About**
 
-This provides with a non exhaustive list of **bibliographical references produced by _Eurostat_ staff in recent years**, _e.g._ contributions to journals, conference publications and reports. You can quickly browse through the publications (together with shortened abstracts) at [this address](https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html). 
+This site provides with a non exhaustive list of **bibliographical references produced by _Eurostat_ staff in recent years**, _e.g._ contributions to journals, conference publications and reports. You can quickly browse through the publications (together with shortened abstracts) at [this proxy address](https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html). 
 
 <p align="center"><a href="https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html"><img src="docs/html.png" alt="html table" width="550" style="margin-left:auto;margin-right:auto;"></a></p>
  
