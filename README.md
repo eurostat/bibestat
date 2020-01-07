@@ -20,9 +20,9 @@ Also note the online presence of some of _Eurostat_ current staff in online libr
 
 To reference _Eurostat_ publications, you can use the source file above, _e.g._:
 
-*  <a name="html"></a>**[*html/*](html)**: in `html`, like in the searchable table [above](#About). Using `Jabref` export option according to the model described in http://www.markschenk.com/tools/jabref/, it is possible to produce such table. For that purpose, the layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
+*  <a name="html"></a>**[*html/*](html)** : in `html`, like in the searchable table [above](#About). Using `Jabref` export option according to the model described in http://www.markschenk.com/tools/jabref/, it is possible to produce such table. For that purpose, the layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
 
-*  <a name="tex"></a>**[*tex/*](tex)**: in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf`'s below: 
+*  <a name="tex"></a>**[*tex/*](tex)** : in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf`'s below: 
 <table>
 <tr>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/alphaydnt-cite.pdf"><img src="docs/alphaydnt.png" alt="alphabetic style, descending year - name - title order" width="240"></a></kbd></td>
@@ -32,7 +32,7 @@ To reference _Eurostat_ publications, you can use the source file above, _e.g._:
 </tr>
 </table>
 
-*  <a name="misc"></a>**[*misc/*](misc)**: in many different formats, namely, [`Endnote`](misc/eurostatref.txt), [`BibTeXML`](misc/eurostatref.xml), [`RIS`](misc/eurostatref.ris), [`csv`](misc/eurostatref.csv), or `MySQL` by exporting the `eurostatref.bib` bibliography database with your favourite bibliography reference manager. 
+*  <a name="misc"></a>**[*misc/*](misc)** : in many different formats, namely, [`Endnote`](misc/eurostatref.txt), [`BibTeXML`](misc/eurostatref.xml), [`RIS`](misc/eurostatref.ris), [`csv`](misc/eurostatref.csv), or `MySQL` by exporting the `eurostatref.bib` bibliography database with your favourite bibliography reference manager. 
 
 **Notes**
 
