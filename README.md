@@ -25,7 +25,7 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 *  <a name="tex"></a>**[*tex/*](tex)**: in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf`'s below: 
 <table>
 <tr>
-<td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/alphaynt-cite.pdf"><img src="docs/alphaydnt.png" alt="alphabetic style, descending year - name - title order" width="240"></a></kbd></td>
+<td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/alphaydnt-cite.pdf"><img src="docs/alphaydnt.png" alt="alphabetic style, descending year - name - title order" width="240"></a></kbd></td>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/apalike-cite.pdf"><img src="docs/apalike.png" alt="apalike style" width="240"></a></kbd></td>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/authoryear-cite.pdf"><img src="docs/authoryear.png" alt="authoryear style, year - name - title order" width="240"></a></kbd></td>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/plainurl-cite.pdf"><img src="docs/plainurl.png" alt="plainurl style" width="240"></a></kbd></td>
