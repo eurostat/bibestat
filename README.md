@@ -22,7 +22,7 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 
 *  <a name="html"></a>**[*html/*](html)**: in `html`, like in the searchable table [above](#About)). Using `Jabref` export option according to the model explained in http://www.markschenk.com/tools/jabref/, it is possible to produce such table. For that purpose, the layout files [`tablerefs-estat.layout`](html/tablerefs-estat.layout), [`tablerefs-estat.begin.layout`](html/tablerefs-estat.begin.layout), and [`tablerefs-estat.end.layout`](html/tablerefs-estat.end.layout) are provided: those can be easily modified following the instructions of the site above. 
 
-*  <a name="tex"></a>**[*tex/*](tex)**: in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf` below: 
+*  <a name="tex"></a>**[*tex/*](tex)**: in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, for instance generating the `pdf`'s below: 
 <table>
 <tr>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/alphaynt-cite.pdf"><img src="docs/alphaydnt.png" alt="alphabetic style, descending year - name - title order" width="240"></a></kbd></td>
