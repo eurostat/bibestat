@@ -1,387 +1,42 @@
-TY  - JOUR
-AU  - Agafitei, M.
-AU  - Gras, F.
-AU  - Kloek, W.
-AU  - Reis, F.
-AU  - Vâju, S. C.
-T1  - Measuring output quality for multisource statistics in official statistics: Some directions
-JO  - Statistical Journal of the IAOS
-Y1  - 2015
-VL  - 31
-IS  - 2
-SP  - 203
-EP  - 211
-UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji902?id=statistical-journal-of-the-iaos\%2Fsji902
-M3  - https://doi.org/10.3233/sji-150902
-
-
-
-
-
-
-
-N2  - Many statistical offices have been moving towards an increased use of administrative data sources for statistical purposes, both as a substitute and as a complement to survey data. Moreover, the emergence of big data constitutes a further increase in available sources. As a result, statistical output in official statistics is increasingly based on complex combinations of sources.The quality of such statistics depends on the quality of the primary sources and on the ways they are combined.This paper analyses the appropriateness of the current set of output quality measures for multiple source statistics, it explains the need for improvement and outlines directions for further work. The usual approach for measuring the quality of the statistical output is to assess quality through the measurement of the input and process quality. The paper argues that in multisource production environment this approach is not sufficient. It advocates measuring quality on the basis of the output itself - without analysing the details of the inputs and the production process - and proposes directions for further development.
-ER  -
-TY  - JOUR
+TY  - RPRT
 AU  - Buono, D.
-AU  - Mazzi, G. L.
+AU  - Amores, A. F.
+AU  - Rémond-Tiedrez, I.
+
+T1  - Data analytics: European wheel of competitiveness
+
+Y1  - 2017
+
+
+
+UR  - https://op.europa.eu/en/publication-detail/-/publication/5ce64720-41ed-11e8-b5fe-01aa75ed71a1/language-en
+M3  - https://doi.org/10.2785/550234
+
+
+
+
+
+
+
+N2  - This study aims to realize a statistical analysis of competitiveness in the EU-28 based on a statistical reference framework, previously defined as the European Wheel of Competitiveness. This framework comprises a list of 35 indicators (EWoC indicators) related to macroeconomics, microeconomics, globalization, environment and socio-institutional aspects. The analytical methods for this study were established in line with the Statistical reference framework for competitiveness analysis in the EU-28 Member States. As a rather broad concept, competitiveness can be described by a large set of different factors and definitions. The aim of this analysis is to show possible redundancy between indicators, but also possible explanatory power. Moreover, it tests the initial assumption that the largest principal components will be sufficient to explain the variability in the observed dataset. Finally, it detects possible patterns based on available set of indicators. Results confirmed some well-known correlations. For instance, the unemployment rate is positively correlated with the indicator People at risk of poverty or social exclusion (AROPE), which is also negatively correlated with the Real GDP per capita. Nevertheless, the performed correlation analysis did not provide any substantial results regarding some other expected correlations. It has to be mentioned at this point that, the presence or the absence of correlation results between several indicators of the set of EWoC indicators, is a fact that should not be understand as a weakness of the EWoC framework but rather as a strength due to the fact that there is not redundant information. Exploring the high correlations between the aforementioned indicators and indicators by themselves, it was decided to control for the indicator 4. Concerning the results obtained with partial correlation analysis, it was evident that most of the previously captured correlation actually comes from the Gross domestic expenditure on R&D. More precisely, when controlling the correlation for the aforementioned indicator, the correlation across EWoC indicators becomes weaker or insignificant in almost all cases. For that reason, and other reasons detailed in the article, indicator 4 was not used for the latter analysis. Finally, the correlation analysis showed that indicator 34: Control of corruption could be also removed from the set of the EWoC indicators. The cross-correlation analysis explored time series correlation and showed that for the same pair of indicators, different or opposite correlation results can be obtained. This proved that countries may react differently and in several periods in time, to similar economic changes. This result provided the idea of countries clustering. In addition, obtained correlation coefficients vary from country to country. Therefore, it was of interest to look for the evidence of formation of groups of countries. In another words, the country-clusters. EU-28The performed analysis showed that the "old" EU Member States (France, Germany, United Kingdom, Italy...) form a cluster while the Eastern EU countries, i.e. "newest"Member States (Estonia, Latvia, Lithuania, Poland, Bulgaria, Romania, Croatia...) form a separate cluster. It is also noteworthy the fact that Luxembourg stands out as being very different, insofar as it forms its own cluster (Figure 1). The explored dataset consists of 29 indicators for time span 2000-2014. Therefore, it seemed logic to examine opportunities for the reduction of dimensionality or indicators` grouping. All analysis (Principal Components, k-means cluster analysis and Gaussian mixture model and the Hierarchical agglomerative clustering analysis) showed that indicators, either as a component of one linear combination or as a member of one group, can be classified into 4 groups. It is noteworthy the fact that indicator 29: Real GDP per capita stands out as being different, insofar as it forms its own cluster
+ER  -
+TY  - RPRT
+AU  - Baldacci, E.
+AU  - Buono, D.
 AU  - Kapetanios, G.
-AU  - Marcellino, M.
-AU  - Papailias, F.
-T1  - Big data types for macroeconomic nowcasting
-JO  - Eurostat Review on National Accounts and Macroeconomic Indicators (EURONA)
-Y1  - 2017
-VL  - 1
-
-SP  - 67
-EP  - 77
-UR  - https://ec.europa.eu/eurostat/cros/system/files/euronaissue1-2017-art4.pdf
-
-
-
-
-
-
-
-
-N2  - In this paper we present a detailed discussion on various types of big data which can be useful in macroeconomic nowcasting. In particular, we review the big data sources, availability, specific characteristics and their use in the literature. We conclude this paper identifying the big data types which could be adopted for real applications.
-ER  -
-TY  - JOUR
-AU  - Hagsten, E.
-AU  - Sabadash, A.
-T1  - A neglected input to production: The role of ICT-schooled employees in firm performance
-JO  - International Journal of Manpower
-Y1  - 2017
-VL  - 38
-IS  - 3
-SP  - 373
-EP  - 391
-UR  - https://www.emerald.com/insight/content/doi/10.1108/IJM-05-2015-0073/full/pdf?title=a-neglected-input-to-production-the-role-of-ict-schooled-employees-in-firm-performance
-M3  - https://doi.org/10.1108/IJM-05-2015-0073
-
-
-
-
-
-
-
-N2  - The purpose of this paper is to broaden the perspective on how information and communication technology (ICT) relates to productivity by introducing a novel ICT variable: the share of ICT-schooled employees in firms, an intangible input often neglected or difficult to measure.
-ER  -
-TY  - JOUR
-AU  - Infante, E.
-AU  - Buono, D.
-AU  - Buono, A.
-T1  - A 3-way ANOVA a priori test for common seasonal patterns and its application to direct versus indirect methods
-JO  - Eurostat Review on National Accounts and Macroeconomic Indicators (EURONA)
-Y1  - 2015
-VL  - 1
-
-SP  - 93
-EP  - 145
-UR  - https://ec.europa.eu/eurostat/cros/system/files/05y-newanova_techsav_dtp_final.pdf
-
-
-
-U1  - 1977-978X
-
-
-
-
-N2  - In this paper we propose a new a priori test to be used for the identification of a common seasonal pattern. The test is applied a priori to any running of a seasonal adjustment procedure. The test is a three way ANOVA, where the three factors are the series, the time frequency and the year. One of the possible applications of using such a test would be when selecting either the direct or indirect approach when seasonally adjusting. The Seasonally Adjusted series of an aggregate can be obtained by seasonal adjusting it (direct approach) or by aggregating the seasonally adjusted individual series (indirect approach). It should be noted that, to date, the literature has been mainly focusing on an a posteriori comparison among the results achieved by applying different approaches. This paper seeks to set out an a priori strategy for the identification of the most effective seasonal adjustment of the aggregate.
-ER  -
-TY  - JOUR
-AU  - Pantea, S.
-AU  - Biagi, F.
-AU  - Sabadash, A.
-T1  - Are ICT displacing workers in the short run? Evidence from seven European countries
-JO  - Information Economics and Policy
-Y1  - 2017
-VL  - 39
-
-SP  - 36
-EP  - 44
-UR  - https://www.sciencedirect.com/science/article/pii/S0167624516301615
-M3  - https://doi.org/10.1016/j.infoecopol.2017.03.002
-
-
-
-
-
-
-
-N2  - This paper examines the short run labour substitution effects of using ICT at firm-level in the manufacturing and services sectors in seven European countries, during the period 2007–2010. The data come from a unique dataset provided by the ESSLait Project on Linking Microdata, which contains internationally comparable data based on the production statistics linked at firm level with the novel ICT usage indicators. We adopt a standard conditional labour demand model and control for unobservable time-invariant firm-specific effects. The results show that ICT use has a statistically insignificant labour substitution effect and this effect is robust across countries, sectors and measures of ICT use. Our findings suggest that increased use of ICT within firms does not reduce the numbers of workers they employ.
-ER  -
-TY  - JOUR
-AU  - Ruggeri Cannata, R.
-AU  - Buono, D.
-AU  - Biscosi, F.
-T1  - The Macroeconomic Imbalances Procedure and the scoreboard: Ensuring data coverage
-JO  - Eurostat Review on National Accounts and Macroeconomic Indicators (EURONA)
-Y1  - 2015
-VL  - 2
-
-SP  - 97
-EP  - 118
-UR  - https://ec.europa.eu/eurostat/documents/3217494/7114363/KS-GP-15-002-EN-N.pdf
-
-
-
-U1  - 1977-978X
-
-
-
-
-N2  - The Macroeconomic Imbalance Procedure (MIP) is a surveillance mechanism that aims to identify potential risks early on, prevent the emergence of harmful macroeconomic imbalances and correct the imbalances that are already in place. It is a system for monitoring economic policies and detecting potential harms to the proper functioning of the economy of a Member State, of the Economic and Monetary Union, and of the European Union as a whole. The MIP is supported by the analysis of a set of headline and auxiliary indicators, whose data coverage can reach twenty years due to data transformations. In order to ensure the necessary time series length for policy makers, statisticians can resort to statistical techniques such as back-calculation. This paper illustrates the MIP in the European Union policy context and some applications of back-calculation to two MIP indicators.
-ER  -
-TY  - JOUR
-AU  - Rueda-Cantuche, J. M.
-AU  - Rémond-Tiedrez, I.
-AU  - Bouwmeester, M. C.
-T1  - Institutionalization of inter-country input-output tables: Working towards harmonization and standardization
-JO  - Journal of Industrial Ecology
-Y1  - 2018
-VL  - 22
-IS  - 3
-SP  - 485
-EP  - 486
-UR  - https://onlinelibrary.wiley.com/doi/epdf/10.1111/jiec.12761
-M3  - https://doi.org/10.1111/jiec.12761
-
-
-
-
-
-
-
-N2  - Effective policy to encourage sustainable production and consumption is needed to shape the future so that our impact stays in line with the earth's carrying capacity. To design and monitor effective policy, good-quality data are indispensable. Production and consumption are two sides of the same coin, and in today's globalized world, an integrated and consistent inter-country accounting framework that links these two is a necessity for adequate analysis. A better understanding of global value chains starts with capturing production and trade relations in a coherent and complete system. More insight in the environmental impact of consumption requires an integrated environmental-economic accounting framework. Although producers generally are the ones to pay the wages, extract the resources, and emit the greenhouse gases - our productive system is in place to serve our consumer society. More awareness of the impact of consumption, at home and abroad, is needed to change our behaviour and create a sustainable economy.
-ER  -
-TY  - JOUR
-AU  - Rueda-Cantuche, J. M.
-AU  - Amores, A. F.
-AU  - Rémond-Tiedrez, I.
-T1  - Can supply, use and input–output tables be converted to a different classification with aggregate information?
-JO  - Economic Systems Research
-Y1  - 2019
-
-
-
-UR  - https://www.tandfonline.com/doi/full/10.1080/09535314.2019.1655393
-M3  - https://doi.org/10.1080/09535314.2019.1655393
-
-
-
-
-
-
-
-N2  - Every change in the product and/or industry classifications and/or methodology of supply, use and input-output tables makes any medium- to long-term policy analysis impossible unless appropriate conversions are provided by national statistical institutes using more detailed data. However, can these tables be reasonably converted to a different classification of industries and products using aggregate information? We develop a conversion method that allows changes in classification that are independent of the number of industries and products. In addition, we provide evidence about its empirical performance compared with projection methods. We find projection methods perform better than conversion methods, at least when using aggregate information. Nonetheless, unlike conversion methods, projection methods generally require supply, use and input/output tables in the new classification that might not always be available. In their absence, we recommend using more detailed and sophisticated data.
-ER  -
-TY  - JOUR
-AU  - Rueda-Cantuche, J. M.
-AU  - Amores, A. F.
-AU  - Beutel, J.
-AU  - Rémond-Tiedrez, I.
-T1  - Assessment of European use tables at basic prices and valuation matrices in the absence of official data
-JO  - Economic Systems Research
-Y1  - 2017
-VL  - 30
-IS  - 2
-SP  - 252
-EP  - 270
-UR  - https://www.tandfonline.com/doi/full/10.1080/09535314.2017.1372370
-M3  - https://doi.org/10.1080/09535314.2017.1372370
-
-
-
-
-
-
-
-N2  - Input-Output modellers are often faced with the task of estimating missing Use tables at basic prices and also valuation matrices of the individual countries. This paper examines a selection of estimation methods applied to the European context where the analysts are not in possession of superior data. The estimation methods are restricted to the use of automated methods that would require more than just the row and column sums of the tables (as in projections) but less than a combination of various conflicting information (as in compilation). The results are assessed against the official Supply, Use and Input-Output tables of Belgium, Germany, Italy, Netherlands, Finland, Austria and Slovakia by using matrix difference metrics. The main conclusion is that using the structures of previous years usually performs better than any other approach.
-ER  -
-TY  - JOUR
-AU  - Ricciato, F.
-AU  - Wirthmann, A.
-AU  - Giannakouris, K.
-AU  - Reis, F.
-AU  - Skaliotis, M.
-T1  - Trusted smart statistics: Motivations and principles
-
-Y1  - 2019
-VL  - 35
-IS  - 4
-SP  - 589
-EP  - 603
-UR  - https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji190584
-M3  - https://doi.org/10.3233/SJI-190584
-
-
-
-
-
-
-
-N2  - In this contribution we outline the concept of Trusted Smart Statistics as the natural evolution of official statistics in the new datafied world. Traditional data sources, namely survey and administrative data, represent nowadays a valuable but small portion of the global data stock, much thereof being held in the private sector. The availability of new data sources is only one aspect of the global change that concerns official statistics. Other aspects, more subtle but not less important, include the changes in perceptions, expectations, behaviours and relations between the stakeholders. The environment around official statistics has changed: statistical offices are not any more data monopolists, but one prominent species among many others in a larger (and complex) ecosystem. What was established in the traditional world of legacy data sources (in terms of regulations, technologies, practices, etc.) is not guaranteed to be sufficient any more with new data sources. Trusted Smart Statistics is not about replacing existing sources and processes, but augmenting them with new ones. Such augmentation however will not be only incremental: the path towards Trusted Smart Statistics is not about tweaking some components of the legacy system but about building an entirely new system that will coexist with the legacy one. In this position paper we outline some key design principles for the new Trusted Smart Statistics system. Taken collectively they picture a system where the smart and trust aspects enable and reinforce each other. A system that is more extrovert towards external stakeholders (citizens, private companies, public authorities) with whom Statistical Offices will be sharing computation, control, code, logs and of course final statistics, without necessarily sharing the raw input data. 
-ER  -
-TY  - JOUR
-AU  - Sanz, A. F.
-AU  - Luhmann, S.
-AU  - Moraleda, A. G.
-T1  - Official Statistics through the eyes of students and teachers – The European Statistics Competition
-JO  - AStA Wirtschafts- und Sozialstatistisches Archiv
-Y1  - 2019
-VL  - 13
-
-SP  - 245
-EP  - 255
-UR  - https://link.springer.com/content/pdf/10.1007\%2Fs11943-019-00249-5.pdf
-M3  - https://doi.org/10.1007/s11943-019-00249-5
-
-
-
-
-
-
-
-
-ER  -
-TY  - JOUR
-AU  - Sutcliffe, L. M. E.
-AU  - Schraml, A.
-AU  - Eiselt, B.
-AU  - Oppermann, R.
-T1  - The LUCAS grassland module pilot – Qualitative monitoring of grassland in Europe
-JO  - Palaearctic Grasslands
-Y1  - 2019
-VL  - 40
-
-SP  - 27
-EP  - 31
-UR  - https://edgg.org/sites/default/files/page/Palaearctic_Grasslands_40_0.pdf
-M3  - https://doi.org/10.21570/EDGG.PG40
-
-
-
-
-
-
-
-N2  - The Land Use/Cover Area-Frame Survey (LUCAS) is a European inventory carried out every three years and coordinated by Eurostat. It aims to provide information for policy and science on land use, land cover and environmental parameters by surveying a statistically representative sample of points spread across the EU countries. In 2018, a new grassland module was piloted within the survey. This pilot aims to collect detailed information on the environmental and ecological quality of the grassland, as well as its type and intensity of use. Between April and July 2018, 3734 grassland points in 26 countries were surveyed using this standardised methodology. Of these points, 747 underwent an additional quality control to check the accuracy of the survey method. This is the first time a standardised methodology has been used to collect ecological data on grasslands in a coordinated manner over so wide a geographical range in Europe. The analysis of the data from this survey is ongoing, so the purpose of this article is to briefly describe the method used in the new grassland module and inform readers about how this pilot was developed.
-ER  -
-TY  - CHAP
-AU  - Bach, F.
-A2  - Döllner, J.
-A2  - Jobst, M.
-A2  - Schmitz, P.
-T1  - Statistical disclosure control in geospatial data: The 2021 EU Census example
-T2  - Service-Oriented Mapping – Changing Paradigm in Map Production and Geoinformation Management
-PB  - Springer
-
-Y1  - 2018
-
-
-SP  - 365
-EP  - 384
-UR  - https://link.springer.com/content/pdf/10.1007\%2F978-3-319-72434-8.pdf
-M3  - https://doi.org/10.1007/978-3-319-72434-8_18
-
-
-
-
-
-
-
-N2  - This chapter outlines challenges and modern approaches in statistical disclosure control of official high-resolution population data on the example of the EU census rounds 2011 and 2021, where a particular focus is on the European 1 km grid outputs derived from these censuses. After a general introduction to the topic and experiences from 2011, the recommended protection methods for geospatial data in the planned 2021 census 1 km grids are discussed in detail.
-ER  -
-TY  - CHAP
-AU  - Buono, D.
-AU  - Infante, E.
+AU  - Krische, S.
+AU  - Marcellino, M. G.
 AU  - Mazzi, G. L.
+AU  - Papailias, F.
 
-T1  - Short versus long time series: An empirical analysis
-T2  - Handbook on Seasonal Adjustment
-PB  - Publications Office of the European Union
-
-Y1  - 2018
-
-
-SP  - 669
-EP  - 680
-UR  - https://ec.europa.eu/eurostat/documents/3859598/8939616/KS-GQ-18-001-EN-N.pdf
-M3  - https://doi.org/10.2785/941452
-
-
-
-
-
-
-
-N2  - Most of the literature on business cycle analysis relies, as input, on the seasonally adjusted (SA) data of the main economic indicators. The rationale is that the seasonal frequencies are different from the frequencies of the cycles, then seasonal movements do not carry useful information, moreover they can hide the information on the frequencies of interest in business cycle analysis. This idea is coherent with the literature on SA that rests on the hypothesis of orthogonality among the seasonal and the others components. For several reasons this hypothesis can fail and an interaction between seasonal and business cycles can arise. This work address the plausibility of this hypothesis and a first study on the effect that different seasonal adjustment algorithms can have on the business cycle analysis due to their different ability in separating the seasonal from the other frequencies. Empirically the evidence or the presence of interactions can be hardly detectable. There are several reasons: components are unobservable as well as their connections, consequently. Moreover, the series are often characterized by instability, and/or evolutionary behaviour of the components. Aim of this work can be summarized in: empirical investigation of the effects of a variety of SA methods on two aspects: the cyclical shape of the series and the turning point dating. The focus is on the growth cycle. The approach will be historical, and then no real time exercises is run.
-ER  -
-TY  - CHAP
-AU  - Bujnowska, A.
-A2  - Crato, N.
-A2  - Paruolo, P.
-T1  - Access to European Statistical System microdata
-T2  - Data-Driven Policy Impact Evaluation – How Access to Microdata is Transforming Policy Design
-PB  - Springer
-
-Y1  - 2019
-
-
-SP  - 87
-EP  - 99
-UR  - https://www.springer.com/gp/book/9783319784601
-M3  - https://doi.org/10.1007/978-3-319-78461-8
-
-
-
-
-
-
-
-
-ER  -
-TY  - CHAP
-AU  - Chiappero-Martinetti, E.
-AU  - Sabadash, A.
-A2  - Ibrahim, S.
-A2  - Tiwari, M.
-T1  - Integrating human capital and human capabilities in understanding the value of education
-T2  - The Capability Approach: From Theory to Practice
-PB  - Palgrave Macmillan
-AD  - London, UK
-Y1  - 2014
-
-
-SP  - 206
-EP  - 230
-UR  - https://link.springer.com/content/pdf/10.1057%2F9781137001436.pdf
-M3  - https://doi.org/10.1057/9781137001436_9
-
-
-
-N1  - see also https://mpra.ub.uni-muenchen.de/61800/1/MPRA_paper_61800.pdf
-
-
-
-N2  - The aim of this chapter is to investigate the possibility of combining human capital theory (HCT) and the capability approach (CA) in order to better understand and measure both the instrumental and the intrinsic values of education for individuals, and to trace its relative spillover effects on societies. HCT, pioneered by Schultz and Becker in the early 1970s, has since become an important part of the debate on economic growth and development. Recently, HCT has been criticised for the narrow instrumental role that it assigns to education (inasmuch as HCT disregards some of important non-material aspects of education), as well as for its inability to satisfactorily reflect the cultural, gender-based, emotional and historical differences that can influence educational choices and individual well-being.
-ER  -
-TY  - CHAP
-AU  - Eiselt, B.
-A2  - Meinel, G.
-A2  - Förtsch, D.
-A2  - Schwarz, S.
-A2  - Krüger, T.
-T1  - LUCAS-Erhebung: Bodenbedeckung und Bodennutzung in der EU
-T2  - Flächennutzungsmonitoring VIII. Flächensparen – Ökosystemleistungen – Handlungsstrategien
-
+T1  - Big data and macroeconomic nowcasting: From data access to modelling
 
 Y1  - 2016
 
 
 
-UR  - http://slub.qucosa.de/api/qucosa\%3A16825/attachment/ATT-0/
+UR  - https://ec.europa.eu/eurostat/documents/3888793/7753027/KS-TC-16-024-EN-N.pdf
+M3  - https://doi.org/10.2785/360587
 
 
 
@@ -389,25 +44,197 @@ UR  - http://slub.qucosa.de/api/qucosa\%3A16825/attachment/ATT-0/
 
 
 
-
-
+N2  - Parallel advances in IT and in the social use of Internet-related applications, provide the general public with access to a vast amount of information. The associated Big Data are potentially very useful for a variety of applications, ranging from marketing to tapering fiscal evasion. From the point of view of official statistics, the main questions is whether and to what extent Big Data are a field worth investing to expand, check and improve the data production process and which types of partnerships will have to be formed for this purpose. Nowcasting of macroeconomic indicators represents a well-identified field where Big Data has the potential to play a decisive role in the future. In this paper we present the results and main recommendations from the Eurostat-funded project "Big Data and macroeconomic nowcasting", implemented by GOPA Consultants, which benefits from the cooperation and work of the Eurostat task force on Big Data and a few external academic experts.
 ER  -
-TY  - CHAP
-AU  - Gatto, R.
+TY  - RPRT
+AU  - Fernández-Ugalde, O.
+AU  - Jones, A.
+AU  - Tóth, G.
+AU  - Orgiazzi, A.
+AU  - Panagos, P.
+AU  - Eiselt, B.
+
+T1  - LUCAS soil component: Proposal for analysing new physical, chemical and biological soil parameter
+
+Y1  - 2016
+
+IS  - EUR 28038EN
+
+UR  - https://publications.jrc.ec.europa.eu/repository/bitstream/JRC102485/lb-na-28038-en-n\%20.pdf
+M3  - https://doi.org/10.2788/884940
+
+
+
+
+
+
+
+N2  - While unemployment in the EU is above 10%, the job vacancy rate also remains high around 1.5%. This suggests considerable unmet demand for skills, which is in the focus of the EU employment promotion policies. This paper studies the special role that schooled ICT experts in firms - an intangible input often neglected and difficult to measure - play for productivity. The effects are investigated both in isolation and in conjunction with the impact of ICT maturity on microdata in six European countries (UK, France, Sweden, Norway, Denmark and Finland) for the period 2001-2009. We find that increases in the proportion of ICT-intensive human capital boosts productivity. This seems to confirm the case in favour of recruitment of highly skilled ICT employees. However, the gains vary across countries and industries, suggesting that the channels through which the effects operate are narrower for ICT-intensive human capital than for skilled human capital in general. Our findings provide an important message to the EU employment policy debate that currently revolves around the skill mismatch in general and the unmet demand for ICT skills in particular.
+ER  -
+TY  - RPRT
+AU  - Hagsten, E.
+AU  - Sabadash, A.
+
+T1  - The impact of highly-skilled ICT labour on firm performance: Empirical evidence from six European countries
+
+Y1  - 2014
+
+IS  - JRC89703
+
+UR  - https://ec.europa.eu/jrc/sites/jrcsh/files/ReqNo_JRC89703_The%20Impact%20of%20Highly-skilled%20ICT%20Labour%20on%20Firm%20Performance%20Empirical%20Evidence%20from%20Six%20Countries.pdf
+
+
+
+
+
+
+
+
+N2  - While unemployment in the EU is above 10%, the job vacancy rate also remains high around 1.5%. This suggests considerable unmet demand for skills, which is in the focus of the EU employment promotion policies. This paper studies the special role that schooled ICT experts in firms - an intangible input often neglected and difficult to measure - play for productivity. The effects are investigated both in isolation and in conjunction with the impact of ICT maturity on microdata in six European countries (UK, France, Sweden, Norway, Denmark and Finland) for the period 2001-2009. We find that increases in the proportion of ICT-intensive human capital boosts productivity. This seems to confirm the case in favour of recruitment of highly skilled ICT employees. However, the gains vary across countries and industries, suggesting that the channels through which the effects operate are narrower for ICT-intensive human capital than for skilled human capital in general. Our findings provide an important message to the EU employment policy debate that currently revolves around the skill mismatch in general and the unmet demand for ICT skills in particular.
+ER  -
+TY  - RPRT
+AU  - Marcellino, M. G.
+AU  - Papailias, F.
+AU  - Mazzi, G. L.
+AU  - Kapetanios, G.
+AU  - Buono, D.
+
+T1  - Big data econometrics: Now casting and early estimates
+
+Y1  - 2018
+
+IS  - 82
+
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3206554
+
+
+
+
+
+
+
+
+N2  - This paper aims at providing a primer on the use of big data in macroeconomic nowcasting and early estimation. We discuss: (i) a typology of big data characteristics relevant for macroeconomic nowcasting and early estimates, (ii) methods for features extraction from unstructured big data to usable time series, (iii) econometric methods that could be used for nowcasting with big data, (iv) some empirical nowcasting results for key target variables for four EU countries, and (v) ways to evaluate nowcasts and ash estimates. We conclude by providing a set of recommendations to assess the pros and cons of the use of big data in a specic empirical nowcasting context.
+ER  -
+TY  - RPRT
+AU  - Pantea, S.
+AU  - Biagi, F.
+AU  - Sabadash, A.
+
+T1  - Are ICT displacing workers? Evidence from seven European countries
+
+Y1  - 2014
+
+IS  - JRC9112
+
+UR  - https://ec.europa.eu/jrc/sites/jrcsh/files/JRC91122_ICT_displacing_workers.pdf
+
+
+
+
+
+
+
+
+N2  - This paper examines whether ICT substitute labour and reduce the demand for labour. We used firm-level comparable data separately for firms in manufacturing, services and ICT-producing sectors from seven European countries. We adopted a common methodology and applied it to a unique dataset provided by the ESSLait Project on Linking Microdata. We controlled for unobservable time-invariant firm-specific effects and we found no evidence of a negative relationship between intensity of ICT use and employment growth. We read this as an indication that ICT use is not reducing employment among ICT using firms.
+ER  -
+TY  - RPRT
+AU  - Sabadash, A.
+
+T1  - Employment of ICT specialists in the EU (2000-2012)
+
+Y1  - 2014
+
+IS  - JRC92503
+
+UR  - https://ec.europa.eu/jrc/sites/jrcsh/files/JRC92503_Employment_of_ICT_Specialists.pdf
+
+
+
+N1  - see also https://mpra.ub.uni-muenchen.de/61644/1/MPRA_paper_61644.pdf
+
+
+
+
+N2  - This study examines the evolution of the number of ICT-skilled workers employed in industry sectors in the EU28 over the period 2000-2012. Data are taken from the Eurostat Labour Force Statistics. It introduces a novel definition of ICT specialists that combines occupations and skills taxonomies. For the period prior to the introduction of the Standard Classification of Occupations (ISCO-08) it starts from the OECD definition but includes a wider range of ICT occupations. From 2011 onwards it adopts the thematic view for ICT occupations proposed by the ILO (2012). It confirms that employment of ICT specialists in the EU27 has been resilient to the economic downturn and uncertainty in global labour markets, and was able to maintain a growth path of 4.3% per year over the period 2000-2012, more than 7 times higher than average growth of total employment over the same period. Though ICT employment evolved cyclically it never turned negative. This rapid growth in ICT employment confirms the increasing importance of ICT technologies in the global economy.
+ER  -
+TY  - GEN
+AU  - Boxall, M.
+AU  - Brown, G.
+AU  - Buono, D.
+AU  - Elliott, D.
+AU  - Kirchner, R.
 AU  - Ladiray, D.
 AU  - Mazzi, G. L.
+AU  - Ruggeri Cannata, R.
 
-T1  - The effect of alternative seasonal adjustment methods on business cycle analysis
-T2  - Handbook on Seasonal Adjustment
-PB  - Publications Office of the European Union
+T1  - ESS guidelines on seasonal adjustment
+
+
+
+Y1  - 2015
+
+
+
+UR  - https://ec.europa.eu/eurostat/documents/3859598/6830795/KS-GQ-15-001-EN-N.pdf
+M3  - https://doi.org/10.2785/317290
+
+
+
+
+
+
+N2  - The establishment of common guidelines for seasonal adjustment (SA) within the European Statistical System (ESS) is an essential step towards a better harmonisation and comparability of infra-annual statistics, especially Principal European Economic Indicators (PEEIs). The ESS Guidelines on Seasonal Adjustment address the need for harmonisation expressed on several occasions by many users such as the European Central Bank (ECB), European Commission services, and the ECOFIN Council. The definition of best practices in the field of seasonal adjustment has been long debated at European level. Since 2007, the Seasonal Adjustment Steering Group co-chaired by Eurostat and the ECB gave a new and crucial input to the compilation of the first edition of the guidelines, published in 2009. The first edition has been widely accepted and implemented. However, taking into account the experience accumulated since 2009 and the need to further clarify some specific aspects, in 2012 the Seasonal Adjustment Steering Group decided to launch a revision of the guidelines. The ESS Guidelines on Seasonal Adjustment are the outcome of the revision work and the ESS Committee (ESSC) endorsed them in November 2014. The revised ESS Guidelines on Seasonal Adjustment present both theoretical aspects and practical implementation issues in a friendly and easy to read framework, thereby addressing both experts and non- experts in seasonal adjustment. They meet the requirement of principle 7 (Sound Methodology) of the European Statistics Code of Practice and their implementation will also be in line with principles 14 (Coherence and Comparability) and 15 (Accessibility and Clarity). The guidelines also foster the transparency of seasonal adjustment practices by encouraging the documentation of all seasonal adjustment steps and the dissemination of seasonal adjustment practices by means of the metadata template for seasonal adjustment. Finally they allow for development of expertise and capacity building. The revised version of the guidelines includes a new section with a policy for seasonal adjustment, making the revised version of the guidelines consistent with the guidelines on revisions policies. It also better describes the different steps in seasonal adjustment. Finally the specification of alternatives has been reviewed, making them more operational.
+ER  -
+TY  - GEN
+AU  - Buono, D.
+AU  - Elliott, D.
+AU  - Mazzi, G. L.
+AU  - Bikker, R.
+AU  - Frölich, M.
+AU  - Gatto, R.
+AU  - Guardalbascio, B.
+AU  - Hauf, S.
+AU  - Infante, E.
+AU  - Moauro, F.
+AU  - Oltmanns, E.
+AU  - Palate, J.
+AU  - Safr, K.
+AU  - Tibert Stoltze, P.
+AU  - Di Iorio, F.
+
+T1  - ESS guidelines on temporal disaggregation, benchmarking and reconciliation
+
+
 
 Y1  - 2018
 
 
-SP  - 629
-EP  - 654
-UR  - https://ec.europa.eu/eurostat/documents/3859598/8939616/KS-GQ-18-001-EN-N.pdf
-M3  - https://doi.org/10.2785/941452
+
+UR  - https://ec.europa.eu/eurostat/documents/3859598/9441376/KS-06-18-355-EN.pdf
+M3  - https://doi.org/10.2785/846595
+
+
+
+
+
+
+N2  - In official statistics there is an increasing demand for indicators at a higher frequency than those that have traditionally been observed. Direct measures of indicators at a high frequency can be very costly and difficult to achieve sometimes resulting in low quality results when the information set is not adequate. In such situations temporal disaggregation techniques can constitute a feasible alternative to the direct estimation of high frequency indicators. Additionally, even when high frequency indicators can be directly compiled, they are often not consistent over time with lower frequency versions. For example, annual surveys with larger samples may give more accurate estimates of the level of a variable compared to estimates from a small monthly survey that is designed to provide estimates of monthly change. Under the hypothesis that low frequency indicators are more reliable than high frequency ones, benchmarking techniques can be used to ensure the time consistency between high and low frequency indicators. Finally, directly or indirectly measured high frequency indicators may not necessarily meet required accounting and aggregation constraints. If that low frequency indicators meet accounting and aggregation constraints, reconciliation techniques can be used to restore them on high frequency indicators too. Eurostat and the European Statistical System (ESS) developed these guidelines to help data producers derive high frequency data (e.g. quarterly or monthly) from low frequency data (e.g. annual) and to address related temporal and accounting constraints. Typical applications are known as temporal disaggregation, benchmarking, and reconciliation. The guidelines identify best practice to: (i) achieve harmonization across national processes; (ii) enhance comparability between results; (iii) ensure consistency across domains and between aggregates and their components. The establishment of common guidelines for temporal disaggregation within the European Statistical System (ESS) is an essential step towards better harmonization and comparability of official statistics, especially in macroeconomic indicators and labour market statistics. These guidelines address the need for harmonization expressed by users from European and National Institutions. This document presents both theoretical aspects and practical implementation issues in a user friendly and easy to read framework. They meet the requirement of principle 7 (Sound Methodology) of the European Statistics Code of Practice (CoP), and their implementation is consistent with principles 14 (Coherence and Comparability) and 15 (Accessibility and Clarity). The guidelines also provide transparency of temporal disaggregation, benchmarking and reconciliation practices by encouraging documentation and dissemination of practices. These guidelines are complementary to the ESS guidelines on seasonal adjustment (Eurostat, 2015 edition), the ESS guidelines on revision policy for PEEIs (Eurostat, 2013 edition), and the Eurostat and United Nations handbook on rapid estimates. They are also in line with the Handbook on quarterly national accounts (Eurostat, 2013 edition).
+ER  -
+TY  - GEN
+AU  - Capaccioli, M.
+AU  - Gramaglia, L.
+AU  - Pellegrino, M.
+
+T1  - Validation and Transformation Language user and reference Manual
+
+
+
+Y1  - 2018
+
+
+
+UR  - https://sdmx.org/wp-content/uploads/VTL-2.0-package-2018.07.12.zip
 
 
 
@@ -415,7 +242,7 @@ M3  - https://doi.org/10.2785/941452
 
 
 
-N2  - Seasonal adjustment procedures are usually designed for being applied on sufficiently long time series in order to obtain good quality results. This is due both to technical reasons such as the properties of the symmetric filters used and to non-technical ones such as the fact that, over a sufficiently long time period, components can be better identified and separated; consequently, the seasonal component can be more precisely estimated and eventually removed. In addition, long time series are required in order to read properly the statistics of the seasonality tests. Furthermore, on short time series the seasonality tests might be less robust. In official statistics, available time series associated to statistical indicators are often relatively short or subject to some shortening processes. This seems to contradict one of the main quality dimensions of statistics which is the coverage, but, at the same time, official statistics need to be continuously improved to better reflect the socio-economic structure. This process unavoidably leads to regularly adapting existing official statistics to evolving socio-economic structure. Furthermore better reflecting the current socio-economic situation can also require the development and the statistical compilation of new indicators, which at least in a first phase will cover only a limited time span. These two processes imply, at least temporarily, the availability of short time series associated to the statistical indicators.
+
 ER  -
 TY  - CONF
 AU  - Bach, F.
@@ -1210,249 +1037,422 @@ Y1  - 2019
 
 
 ER  -
-TY  - GEN
-AU  - Boxall, M.
-AU  - Brown, G.
-AU  - Buono, D.
-AU  - Elliott, D.
-AU  - Kirchner, R.
-AU  - Ladiray, D.
-AU  - Mazzi, G. L.
-AU  - Ruggeri Cannata, R.
+TY  - CHAP
+AU  - Bach, F.
+A2  - Döllner, J.
+A2  - Jobst, M.
+A2  - Schmitz, P.
+T1  - Statistical disclosure control in geospatial data: The 2021 EU Census example
+T2  - Service-Oriented Mapping – Changing Paradigm in Map Production and Geoinformation Management
+PB  - Springer
 
-T1  - ESS guidelines on seasonal adjustment
-
+Y1  - 2018
 
 
-Y1  - 2015
-
-
-
-UR  - https://ec.europa.eu/eurostat/documents/3859598/6830795/KS-GQ-15-001-EN-N.pdf
-M3  - https://doi.org/10.2785/317290
+SP  - 365
+EP  - 384
+UR  - https://link.springer.com/content/pdf/10.1007\%2F978-3-319-72434-8.pdf
+M3  - https://doi.org/10.1007/978-3-319-72434-8_18
 
 
 
 
 
 
-N2  - The establishment of common guidelines for seasonal adjustment (SA) within the European Statistical System (ESS) is an essential step towards a better harmonisation and comparability of infra-annual statistics, especially Principal European Economic Indicators (PEEIs). The ESS Guidelines on Seasonal Adjustment address the need for harmonisation expressed on several occasions by many users such as the European Central Bank (ECB), European Commission services, and the ECOFIN Council. The definition of best practices in the field of seasonal adjustment has been long debated at European level. Since 2007, the Seasonal Adjustment Steering Group co-chaired by Eurostat and the ECB gave a new and crucial input to the compilation of the first edition of the guidelines, published in 2009. The first edition has been widely accepted and implemented. However, taking into account the experience accumulated since 2009 and the need to further clarify some specific aspects, in 2012 the Seasonal Adjustment Steering Group decided to launch a revision of the guidelines. The ESS Guidelines on Seasonal Adjustment are the outcome of the revision work and the ESS Committee (ESSC) endorsed them in November 2014. The revised ESS Guidelines on Seasonal Adjustment present both theoretical aspects and practical implementation issues in a friendly and easy to read framework, thereby addressing both experts and non- experts in seasonal adjustment. They meet the requirement of principle 7 (Sound Methodology) of the European Statistics Code of Practice and their implementation will also be in line with principles 14 (Coherence and Comparability) and 15 (Accessibility and Clarity). The guidelines also foster the transparency of seasonal adjustment practices by encouraging the documentation of all seasonal adjustment steps and the dissemination of seasonal adjustment practices by means of the metadata template for seasonal adjustment. Finally they allow for development of expertise and capacity building. The revised version of the guidelines includes a new section with a policy for seasonal adjustment, making the revised version of the guidelines consistent with the guidelines on revisions policies. It also better describes the different steps in seasonal adjustment. Finally the specification of alternatives has been reviewed, making them more operational.
+
+N2  - This chapter outlines challenges and modern approaches in statistical disclosure control of official high-resolution population data on the example of the EU census rounds 2011 and 2021, where a particular focus is on the European 1 km grid outputs derived from these censuses. After a general introduction to the topic and experiences from 2011, the recommended protection methods for geospatial data in the planned 2021 census 1 km grids are discussed in detail.
 ER  -
-TY  - GEN
+TY  - CHAP
 AU  - Buono, D.
-AU  - Elliott, D.
-AU  - Mazzi, G. L.
-AU  - Bikker, R.
-AU  - Frölich, M.
-AU  - Gatto, R.
-AU  - Guardalbascio, B.
-AU  - Hauf, S.
 AU  - Infante, E.
-AU  - Moauro, F.
-AU  - Oltmanns, E.
-AU  - Palate, J.
-AU  - Safr, K.
-AU  - Tibert Stoltze, P.
-AU  - Di Iorio, F.
-
-T1  - ESS guidelines on temporal disaggregation, benchmarking and reconciliation
-
-
-
-Y1  - 2018
-
-
-
-UR  - https://ec.europa.eu/eurostat/documents/3859598/9441376/KS-06-18-355-EN.pdf
-M3  - https://doi.org/10.2785/846595
-
-
-
-
-
-
-N2  - In official statistics there is an increasing demand for indicators at a higher frequency than those that have traditionally been observed. Direct measures of indicators at a high frequency can be very costly and difficult to achieve sometimes resulting in low quality results when the information set is not adequate. In such situations temporal disaggregation techniques can constitute a feasible alternative to the direct estimation of high frequency indicators. Additionally, even when high frequency indicators can be directly compiled, they are often not consistent over time with lower frequency versions. For example, annual surveys with larger samples may give more accurate estimates of the level of a variable compared to estimates from a small monthly survey that is designed to provide estimates of monthly change. Under the hypothesis that low frequency indicators are more reliable than high frequency ones, benchmarking techniques can be used to ensure the time consistency between high and low frequency indicators. Finally, directly or indirectly measured high frequency indicators may not necessarily meet required accounting and aggregation constraints. If that low frequency indicators meet accounting and aggregation constraints, reconciliation techniques can be used to restore them on high frequency indicators too. Eurostat and the European Statistical System (ESS) developed these guidelines to help data producers derive high frequency data (e.g. quarterly or monthly) from low frequency data (e.g. annual) and to address related temporal and accounting constraints. Typical applications are known as temporal disaggregation, benchmarking, and reconciliation. The guidelines identify best practice to: (i) achieve harmonization across national processes; (ii) enhance comparability between results; (iii) ensure consistency across domains and between aggregates and their components. The establishment of common guidelines for temporal disaggregation within the European Statistical System (ESS) is an essential step towards better harmonization and comparability of official statistics, especially in macroeconomic indicators and labour market statistics. These guidelines address the need for harmonization expressed by users from European and National Institutions. This document presents both theoretical aspects and practical implementation issues in a user friendly and easy to read framework. They meet the requirement of principle 7 (Sound Methodology) of the European Statistics Code of Practice (CoP), and their implementation is consistent with principles 14 (Coherence and Comparability) and 15 (Accessibility and Clarity). The guidelines also provide transparency of temporal disaggregation, benchmarking and reconciliation practices by encouraging documentation and dissemination of practices. These guidelines are complementary to the ESS guidelines on seasonal adjustment (Eurostat, 2015 edition), the ESS guidelines on revision policy for PEEIs (Eurostat, 2013 edition), and the Eurostat and United Nations handbook on rapid estimates. They are also in line with the Handbook on quarterly national accounts (Eurostat, 2013 edition).
-ER  -
-TY  - GEN
-AU  - Capaccioli, M.
-AU  - Gramaglia, L.
-AU  - Pellegrino, M.
-
-T1  - Validation and Transformation Language user and reference Manual
-
-
-
-Y1  - 2018
-
-
-
-UR  - https://sdmx.org/wp-content/uploads/VTL-2.0-package-2018.07.12.zip
-
-
-
-
-
-
-
-
-ER  -
-TY  - RPRT
-AU  - Buono, D.
-AU  - Amores, A. F.
-AU  - Rémond-Tiedrez, I.
-
-T1  - Data analytics: European wheel of competitiveness
-
-Y1  - 2017
-
-
-
-UR  - https://op.europa.eu/en/publication-detail/-/publication/5ce64720-41ed-11e8-b5fe-01aa75ed71a1/language-en
-M3  - https://doi.org/10.2785/550234
-
-
-
-
-
-
-
-N2  - This study aims to realize a statistical analysis of competitiveness in the EU-28 based on a statistical reference framework, previously defined as the European Wheel of Competitiveness. This framework comprises a list of 35 indicators (EWoC indicators) related to macroeconomics, microeconomics, globalization, environment and socio-institutional aspects. The analytical methods for this study were established in line with the Statistical reference framework for competitiveness analysis in the EU-28 Member States. As a rather broad concept, competitiveness can be described by a large set of different factors and definitions. The aim of this analysis is to show possible redundancy between indicators, but also possible explanatory power. Moreover, it tests the initial assumption that the largest principal components will be sufficient to explain the variability in the observed dataset. Finally, it detects possible patterns based on available set of indicators. Results confirmed some well-known correlations. For instance, the unemployment rate is positively correlated with the indicator People at risk of poverty or social exclusion (AROPE), which is also negatively correlated with the Real GDP per capita. Nevertheless, the performed correlation analysis did not provide any substantial results regarding some other expected correlations. It has to be mentioned at this point that, the presence or the absence of correlation results between several indicators of the set of EWoC indicators, is a fact that should not be understand as a weakness of the EWoC framework but rather as a strength due to the fact that there is not redundant information. Exploring the high correlations between the aforementioned indicators and indicators by themselves, it was decided to control for the indicator 4. Concerning the results obtained with partial correlation analysis, it was evident that most of the previously captured correlation actually comes from the Gross domestic expenditure on R&D. More precisely, when controlling the correlation for the aforementioned indicator, the correlation across EWoC indicators becomes weaker or insignificant in almost all cases. For that reason, and other reasons detailed in the article, indicator 4 was not used for the latter analysis. Finally, the correlation analysis showed that indicator 34: Control of corruption could be also removed from the set of the EWoC indicators. The cross-correlation analysis explored time series correlation and showed that for the same pair of indicators, different or opposite correlation results can be obtained. This proved that countries may react differently and in several periods in time, to similar economic changes. This result provided the idea of countries clustering. In addition, obtained correlation coefficients vary from country to country. Therefore, it was of interest to look for the evidence of formation of groups of countries. In another words, the country-clusters. EU-28The performed analysis showed that the "old" EU Member States (France, Germany, United Kingdom, Italy...) form a cluster while the Eastern EU countries, i.e. "newest"Member States (Estonia, Latvia, Lithuania, Poland, Bulgaria, Romania, Croatia...) form a separate cluster. It is also noteworthy the fact that Luxembourg stands out as being very different, insofar as it forms its own cluster (Figure 1). The explored dataset consists of 29 indicators for time span 2000-2014. Therefore, it seemed logic to examine opportunities for the reduction of dimensionality or indicators` grouping. All analysis (Principal Components, k-means cluster analysis and Gaussian mixture model and the Hierarchical agglomerative clustering analysis) showed that indicators, either as a component of one linear combination or as a member of one group, can be classified into 4 groups. It is noteworthy the fact that indicator 29: Real GDP per capita stands out as being different, insofar as it forms its own cluster
-ER  -
-TY  - RPRT
-AU  - Baldacci, E.
-AU  - Buono, D.
-AU  - Kapetanios, G.
-AU  - Krische, S.
-AU  - Marcellino, M. G.
 AU  - Mazzi, G. L.
-AU  - Papailias, F.
 
-T1  - Big data and macroeconomic nowcasting: From data access to modelling
+T1  - Short versus long time series: An empirical analysis
+T2  - Handbook on Seasonal Adjustment
+PB  - Publications Office of the European Union
 
-Y1  - 2016
-
-
-
-UR  - https://ec.europa.eu/eurostat/documents/3888793/7753027/KS-TC-16-024-EN-N.pdf
-M3  - https://doi.org/10.2785/360587
+Y1  - 2018
 
 
-
-
+SP  - 669
+EP  - 680
+UR  - https://ec.europa.eu/eurostat/documents/3859598/8939616/KS-GQ-18-001-EN-N.pdf
+M3  - https://doi.org/10.2785/941452
 
 
 
-N2  - Parallel advances in IT and in the social use of Internet-related applications, provide the general public with access to a vast amount of information. The associated Big Data are potentially very useful for a variety of applications, ranging from marketing to tapering fiscal evasion. From the point of view of official statistics, the main questions is whether and to what extent Big Data are a field worth investing to expand, check and improve the data production process and which types of partnerships will have to be formed for this purpose. Nowcasting of macroeconomic indicators represents a well-identified field where Big Data has the potential to play a decisive role in the future. In this paper we present the results and main recommendations from the Eurostat-funded project "Big Data and macroeconomic nowcasting", implemented by GOPA Consultants, which benefits from the cooperation and work of the Eurostat task force on Big Data and a few external academic experts.
+
+
+
+
+N2  - Most of the literature on business cycle analysis relies, as input, on the seasonally adjusted (SA) data of the main economic indicators. The rationale is that the seasonal frequencies are different from the frequencies of the cycles, then seasonal movements do not carry useful information, moreover they can hide the information on the frequencies of interest in business cycle analysis. This idea is coherent with the literature on SA that rests on the hypothesis of orthogonality among the seasonal and the others components. For several reasons this hypothesis can fail and an interaction between seasonal and business cycles can arise. This work address the plausibility of this hypothesis and a first study on the effect that different seasonal adjustment algorithms can have on the business cycle analysis due to their different ability in separating the seasonal from the other frequencies. Empirically the evidence or the presence of interactions can be hardly detectable. There are several reasons: components are unobservable as well as their connections, consequently. Moreover, the series are often characterized by instability, and/or evolutionary behaviour of the components. Aim of this work can be summarized in: empirical investigation of the effects of a variety of SA methods on two aspects: the cyclical shape of the series and the turning point dating. The focus is on the growth cycle. The approach will be historical, and then no real time exercises is run.
 ER  -
-TY  - RPRT
-AU  - Fernández-Ugalde, O.
-AU  - Jones, A.
-AU  - Tóth, G.
-AU  - Orgiazzi, A.
-AU  - Panagos, P.
-AU  - Eiselt, B.
+TY  - CHAP
+AU  - Bujnowska, A.
+A2  - Crato, N.
+A2  - Paruolo, P.
+T1  - Access to European Statistical System microdata
+T2  - Data-Driven Policy Impact Evaluation – How Access to Microdata is Transforming Policy Design
+PB  - Springer
 
-T1  - LUCAS soil component: Proposal for analysing new physical, chemical and biological soil parameter
+Y1  - 2019
 
-Y1  - 2016
 
-IS  - EUR 28038EN
-
-UR  - https://publications.jrc.ec.europa.eu/repository/bitstream/JRC102485/lb-na-28038-en-n\%20.pdf
-M3  - https://doi.org/10.2788/884940
-
+SP  - 87
+EP  - 99
+UR  - https://www.springer.com/gp/book/9783319784601
+M3  - https://doi.org/10.1007/978-3-319-78461-8
 
 
 
 
 
 
-N2  - While unemployment in the EU is above 10%, the job vacancy rate also remains high around 1.5%. This suggests considerable unmet demand for skills, which is in the focus of the EU employment promotion policies. This paper studies the special role that schooled ICT experts in firms - an intangible input often neglected and difficult to measure - play for productivity. The effects are investigated both in isolation and in conjunction with the impact of ICT maturity on microdata in six European countries (UK, France, Sweden, Norway, Denmark and Finland) for the period 2001-2009. We find that increases in the proportion of ICT-intensive human capital boosts productivity. This seems to confirm the case in favour of recruitment of highly skilled ICT employees. However, the gains vary across countries and industries, suggesting that the channels through which the effects operate are narrower for ICT-intensive human capital than for skilled human capital in general. Our findings provide an important message to the EU employment policy debate that currently revolves around the skill mismatch in general and the unmet demand for ICT skills in particular.
+
+
 ER  -
-TY  - RPRT
-AU  - Hagsten, E.
+TY  - CHAP
+AU  - Chiappero-Martinetti, E.
 AU  - Sabadash, A.
-
-T1  - The impact of highly-skilled ICT labour on firm performance: Empirical evidence from six European countries
-
+A2  - Ibrahim, S.
+A2  - Tiwari, M.
+T1  - Integrating human capital and human capabilities in understanding the value of education
+T2  - The Capability Approach: From Theory to Practice
+PB  - Palgrave Macmillan
+AD  - London, UK
 Y1  - 2014
 
-IS  - JRC89703
 
-UR  - https://ec.europa.eu/jrc/sites/jrcsh/files/ReqNo_JRC89703_The%20Impact%20of%20Highly-skilled%20ICT%20Labour%20on%20Firm%20Performance%20Empirical%20Evidence%20from%20Six%20Countries.pdf
-
-
-
-
+SP  - 206
+EP  - 230
+UR  - https://link.springer.com/content/pdf/10.1057%2F9781137001436.pdf
+M3  - https://doi.org/10.1057/9781137001436_9
 
 
 
+N1  - see also https://mpra.ub.uni-muenchen.de/61800/1/MPRA_paper_61800.pdf
 
-N2  - While unemployment in the EU is above 10%, the job vacancy rate also remains high around 1.5%. This suggests considerable unmet demand for skills, which is in the focus of the EU employment promotion policies. This paper studies the special role that schooled ICT experts in firms - an intangible input often neglected and difficult to measure - play for productivity. The effects are investigated both in isolation and in conjunction with the impact of ICT maturity on microdata in six European countries (UK, France, Sweden, Norway, Denmark and Finland) for the period 2001-2009. We find that increases in the proportion of ICT-intensive human capital boosts productivity. This seems to confirm the case in favour of recruitment of highly skilled ICT employees. However, the gains vary across countries and industries, suggesting that the channels through which the effects operate are narrower for ICT-intensive human capital than for skilled human capital in general. Our findings provide an important message to the EU employment policy debate that currently revolves around the skill mismatch in general and the unmet demand for ICT skills in particular.
+
+
+N2  - The aim of this chapter is to investigate the possibility of combining human capital theory (HCT) and the capability approach (CA) in order to better understand and measure both the instrumental and the intrinsic values of education for individuals, and to trace its relative spillover effects on societies. HCT, pioneered by Schultz and Becker in the early 1970s, has since become an important part of the debate on economic growth and development. Recently, HCT has been criticised for the narrow instrumental role that it assigns to education (inasmuch as HCT disregards some of important non-material aspects of education), as well as for its inability to satisfactorily reflect the cultural, gender-based, emotional and historical differences that can influence educational choices and individual well-being.
 ER  -
-TY  - RPRT
-AU  - Marcellino, M. G.
-AU  - Papailias, F.
-AU  - Mazzi, G. L.
-AU  - Kapetanios, G.
-AU  - Buono, D.
+TY  - CHAP
+AU  - Eiselt, B.
+A2  - Meinel, G.
+A2  - Förtsch, D.
+A2  - Schwarz, S.
+A2  - Krüger, T.
+T1  - LUCAS-Erhebung: Bodenbedeckung und Bodennutzung in der EU
+T2  - Flächennutzungsmonitoring VIII. Flächensparen – Ökosystemleistungen – Handlungsstrategien
 
-T1  - Big data econometrics: Now casting and early estimates
+
+Y1  - 2016
+
+
+
+UR  - http://slub.qucosa.de/api/qucosa\%3A16825/attachment/ATT-0/
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CHAP
+AU  - Gatto, R.
+AU  - Ladiray, D.
+AU  - Mazzi, G. L.
+
+T1  - The effect of alternative seasonal adjustment methods on business cycle analysis
+T2  - Handbook on Seasonal Adjustment
+PB  - Publications Office of the European Union
 
 Y1  - 2018
 
-IS  - 82
 
-UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3206554
-
-
-
-
+SP  - 629
+EP  - 654
+UR  - https://ec.europa.eu/eurostat/documents/3859598/8939616/KS-GQ-18-001-EN-N.pdf
+M3  - https://doi.org/10.2785/941452
 
 
 
 
-N2  - This paper aims at providing a primer on the use of big data in macroeconomic nowcasting and early estimation. We discuss: (i) a typology of big data characteristics relevant for macroeconomic nowcasting and early estimates, (ii) methods for features extraction from unstructured big data to usable time series, (iii) econometric methods that could be used for nowcasting with big data, (iv) some empirical nowcasting results for key target variables for four EU countries, and (v) ways to evaluate nowcasts and ash estimates. We conclude by providing a set of recommendations to assess the pros and cons of the use of big data in a specic empirical nowcasting context.
+
+
+
+N2  - Seasonal adjustment procedures are usually designed for being applied on sufficiently long time series in order to obtain good quality results. This is due both to technical reasons such as the properties of the symmetric filters used and to non-technical ones such as the fact that, over a sufficiently long time period, components can be better identified and separated; consequently, the seasonal component can be more precisely estimated and eventually removed. In addition, long time series are required in order to read properly the statistics of the seasonality tests. Furthermore, on short time series the seasonality tests might be less robust. In official statistics, available time series associated to statistical indicators are often relatively short or subject to some shortening processes. This seems to contradict one of the main quality dimensions of statistics which is the coverage, but, at the same time, official statistics need to be continuously improved to better reflect the socio-economic structure. This process unavoidably leads to regularly adapting existing official statistics to evolving socio-economic structure. Furthermore better reflecting the current socio-economic situation can also require the development and the statistical compilation of new indicators, which at least in a first phase will cover only a limited time span. These two processes imply, at least temporarily, the availability of short time series associated to the statistical indicators.
 ER  -
-TY  - RPRT
+TY  - JOUR
+AU  - Agafitei, M.
+AU  - Gras, F.
+AU  - Kloek, W.
+AU  - Reis, F.
+AU  - Vâju, S. C.
+T1  - Measuring output quality for multisource statistics in official statistics: Some directions
+JO  - Statistical Journal of the IAOS
+Y1  - 2015
+VL  - 31
+IS  - 2
+SP  - 203
+EP  - 211
+UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji902?id=statistical-journal-of-the-iaos\%2Fsji902
+M3  - https://doi.org/10.3233/sji-150902
+
+
+
+
+
+
+
+N2  - Many statistical offices have been moving towards an increased use of administrative data sources for statistical purposes, both as a substitute and as a complement to survey data. Moreover, the emergence of big data constitutes a further increase in available sources. As a result, statistical output in official statistics is increasingly based on complex combinations of sources.The quality of such statistics depends on the quality of the primary sources and on the ways they are combined.This paper analyses the appropriateness of the current set of output quality measures for multiple source statistics, it explains the need for improvement and outlines directions for further work. The usual approach for measuring the quality of the statistical output is to assess quality through the measurement of the input and process quality. The paper argues that in multisource production environment this approach is not sufficient. It advocates measuring quality on the basis of the output itself - without analysing the details of the inputs and the production process - and proposes directions for further development.
+ER  -
+TY  - JOUR
+AU  - Buono, D.
+AU  - Mazzi, G. L.
+AU  - Kapetanios, G.
+AU  - Marcellino, M.
+AU  - Papailias, F.
+T1  - Big data types for macroeconomic nowcasting
+JO  - Eurostat Review on National Accounts and Macroeconomic Indicators (EURONA)
+Y1  - 2017
+VL  - 1
+
+SP  - 67
+EP  - 77
+UR  - https://ec.europa.eu/eurostat/cros/system/files/euronaissue1-2017-art4.pdf
+
+
+
+
+
+
+
+
+N2  - In this paper we present a detailed discussion on various types of big data which can be useful in macroeconomic nowcasting. In particular, we review the big data sources, availability, specific characteristics and their use in the literature. We conclude this paper identifying the big data types which could be adopted for real applications.
+ER  -
+TY  - JOUR
+AU  - Hagsten, E.
+AU  - Sabadash, A.
+T1  - A neglected input to production: The role of ICT-schooled employees in firm performance
+JO  - International Journal of Manpower
+Y1  - 2017
+VL  - 38
+IS  - 3
+SP  - 373
+EP  - 391
+UR  - https://www.emerald.com/insight/content/doi/10.1108/IJM-05-2015-0073/full/pdf?title=a-neglected-input-to-production-the-role-of-ict-schooled-employees-in-firm-performance
+M3  - https://doi.org/10.1108/IJM-05-2015-0073
+
+
+
+
+
+
+
+N2  - The purpose of this paper is to broaden the perspective on how information and communication technology (ICT) relates to productivity by introducing a novel ICT variable: the share of ICT-schooled employees in firms, an intangible input often neglected or difficult to measure.
+ER  -
+TY  - JOUR
+AU  - Infante, E.
+AU  - Buono, D.
+AU  - Buono, A.
+T1  - A 3-way ANOVA a priori test for common seasonal patterns and its application to direct versus indirect methods
+JO  - Eurostat Review on National Accounts and Macroeconomic Indicators (EURONA)
+Y1  - 2015
+VL  - 1
+
+SP  - 93
+EP  - 145
+UR  - https://ec.europa.eu/eurostat/cros/system/files/05y-newanova_techsav_dtp_final.pdf
+
+
+
+U1  - 1977-978X
+
+
+
+
+N2  - In this paper we propose a new a priori test to be used for the identification of a common seasonal pattern. The test is applied a priori to any running of a seasonal adjustment procedure. The test is a three way ANOVA, where the three factors are the series, the time frequency and the year. One of the possible applications of using such a test would be when selecting either the direct or indirect approach when seasonally adjusting. The Seasonally Adjusted series of an aggregate can be obtained by seasonal adjusting it (direct approach) or by aggregating the seasonally adjusted individual series (indirect approach). It should be noted that, to date, the literature has been mainly focusing on an a posteriori comparison among the results achieved by applying different approaches. This paper seeks to set out an a priori strategy for the identification of the most effective seasonal adjustment of the aggregate.
+ER  -
+TY  - JOUR
 AU  - Pantea, S.
 AU  - Biagi, F.
 AU  - Sabadash, A.
+T1  - Are ICT displacing workers in the short run? Evidence from seven European countries
+JO  - Information Economics and Policy
+Y1  - 2017
+VL  - 39
 
-T1  - Are ICT displacing workers? Evidence from seven European countries
-
-Y1  - 2014
-
-IS  - JRC9112
-
-UR  - https://ec.europa.eu/jrc/sites/jrcsh/files/JRC91122_ICT_displacing_workers.pdf
-
-
-
+SP  - 36
+EP  - 44
+UR  - https://www.sciencedirect.com/science/article/pii/S0167624516301615
+M3  - https://doi.org/10.1016/j.infoecopol.2017.03.002
 
 
 
 
 
-N2  - This paper examines whether ICT substitute labour and reduce the demand for labour. We used firm-level comparable data separately for firms in manufacturing, services and ICT-producing sectors from seven European countries. We adopted a common methodology and applied it to a unique dataset provided by the ESSLait Project on Linking Microdata. We controlled for unobservable time-invariant firm-specific effects and we found no evidence of a negative relationship between intensity of ICT use and employment growth. We read this as an indication that ICT use is not reducing employment among ICT using firms.
+
+
+N2  - This paper examines the short run labour substitution effects of using ICT at firm-level in the manufacturing and services sectors in seven European countries, during the period 2007–2010. The data come from a unique dataset provided by the ESSLait Project on Linking Microdata, which contains internationally comparable data based on the production statistics linked at firm level with the novel ICT usage indicators. We adopt a standard conditional labour demand model and control for unobservable time-invariant firm-specific effects. The results show that ICT use has a statistically insignificant labour substitution effect and this effect is robust across countries, sectors and measures of ICT use. Our findings suggest that increased use of ICT within firms does not reduce the numbers of workers they employ.
 ER  -
-TY  - RPRT
-AU  - Sabadash, A.
+TY  - JOUR
+AU  - Ruggeri Cannata, R.
+AU  - Buono, D.
+AU  - Biscosi, F.
+T1  - The Macroeconomic Imbalances Procedure and the scoreboard: Ensuring data coverage
+JO  - Eurostat Review on National Accounts and Macroeconomic Indicators (EURONA)
+Y1  - 2015
+VL  - 2
 
-T1  - Employment of ICT specialists in the EU (2000-2012)
-
-Y1  - 2014
-
-IS  - JRC92503
-
-UR  - https://ec.europa.eu/jrc/sites/jrcsh/files/JRC92503_Employment_of_ICT_Specialists.pdf
-
-
-
-N1  - see also https://mpra.ub.uni-muenchen.de/61644/1/MPRA_paper_61644.pdf
+SP  - 97
+EP  - 118
+UR  - https://ec.europa.eu/eurostat/documents/3217494/7114363/KS-GP-15-002-EN-N.pdf
 
 
 
+U1  - 1977-978X
 
-N2  - This study examines the evolution of the number of ICT-skilled workers employed in industry sectors in the EU28 over the period 2000-2012. Data are taken from the Eurostat Labour Force Statistics. It introduces a novel definition of ICT specialists that combines occupations and skills taxonomies. For the period prior to the introduction of the Standard Classification of Occupations (ISCO-08) it starts from the OECD definition but includes a wider range of ICT occupations. From 2011 onwards it adopts the thematic view for ICT occupations proposed by the ILO (2012). It confirms that employment of ICT specialists in the EU27 has been resilient to the economic downturn and uncertainty in global labour markets, and was able to maintain a growth path of 4.3% per year over the period 2000-2012, more than 7 times higher than average growth of total employment over the same period. Though ICT employment evolved cyclically it never turned negative. This rapid growth in ICT employment confirms the increasing importance of ICT technologies in the global economy.
+
+
+
+N2  - The Macroeconomic Imbalance Procedure (MIP) is a surveillance mechanism that aims to identify potential risks early on, prevent the emergence of harmful macroeconomic imbalances and correct the imbalances that are already in place. It is a system for monitoring economic policies and detecting potential harms to the proper functioning of the economy of a Member State, of the Economic and Monetary Union, and of the European Union as a whole. The MIP is supported by the analysis of a set of headline and auxiliary indicators, whose data coverage can reach twenty years due to data transformations. In order to ensure the necessary time series length for policy makers, statisticians can resort to statistical techniques such as back-calculation. This paper illustrates the MIP in the European Union policy context and some applications of back-calculation to two MIP indicators.
+ER  -
+TY  - JOUR
+AU  - Rueda-Cantuche, J. M.
+AU  - Rémond-Tiedrez, I.
+AU  - Bouwmeester, M. C.
+T1  - Institutionalization of inter-country input-output tables: Working towards harmonization and standardization
+JO  - Journal of Industrial Ecology
+Y1  - 2018
+VL  - 22
+IS  - 3
+SP  - 485
+EP  - 486
+UR  - https://onlinelibrary.wiley.com/doi/epdf/10.1111/jiec.12761
+M3  - https://doi.org/10.1111/jiec.12761
+
+
+
+
+
+
+
+N2  - Effective policy to encourage sustainable production and consumption is needed to shape the future so that our impact stays in line with the earth's carrying capacity. To design and monitor effective policy, good-quality data are indispensable. Production and consumption are two sides of the same coin, and in today's globalized world, an integrated and consistent inter-country accounting framework that links these two is a necessity for adequate analysis. A better understanding of global value chains starts with capturing production and trade relations in a coherent and complete system. More insight in the environmental impact of consumption requires an integrated environmental-economic accounting framework. Although producers generally are the ones to pay the wages, extract the resources, and emit the greenhouse gases - our productive system is in place to serve our consumer society. More awareness of the impact of consumption, at home and abroad, is needed to change our behaviour and create a sustainable economy.
+ER  -
+TY  - JOUR
+AU  - Rueda-Cantuche, J. M.
+AU  - Amores, A. F.
+AU  - Rémond-Tiedrez, I.
+T1  - Can supply, use and input–output tables be converted to a different classification with aggregate information?
+JO  - Economic Systems Research
+Y1  - 2019
+
+
+
+UR  - https://www.tandfonline.com/doi/full/10.1080/09535314.2019.1655393
+M3  - https://doi.org/10.1080/09535314.2019.1655393
+
+
+
+
+
+
+
+N2  - Every change in the product and/or industry classifications and/or methodology of supply, use and input-output tables makes any medium- to long-term policy analysis impossible unless appropriate conversions are provided by national statistical institutes using more detailed data. However, can these tables be reasonably converted to a different classification of industries and products using aggregate information? We develop a conversion method that allows changes in classification that are independent of the number of industries and products. In addition, we provide evidence about its empirical performance compared with projection methods. We find projection methods perform better than conversion methods, at least when using aggregate information. Nonetheless, unlike conversion methods, projection methods generally require supply, use and input/output tables in the new classification that might not always be available. In their absence, we recommend using more detailed and sophisticated data.
+ER  -
+TY  - JOUR
+AU  - Rueda-Cantuche, J. M.
+AU  - Amores, A. F.
+AU  - Beutel, J.
+AU  - Rémond-Tiedrez, I.
+T1  - Assessment of European use tables at basic prices and valuation matrices in the absence of official data
+JO  - Economic Systems Research
+Y1  - 2017
+VL  - 30
+IS  - 2
+SP  - 252
+EP  - 270
+UR  - https://www.tandfonline.com/doi/full/10.1080/09535314.2017.1372370
+M3  - https://doi.org/10.1080/09535314.2017.1372370
+
+
+
+
+
+
+
+N2  - Input-Output modellers are often faced with the task of estimating missing Use tables at basic prices and also valuation matrices of the individual countries. This paper examines a selection of estimation methods applied to the European context where the analysts are not in possession of superior data. The estimation methods are restricted to the use of automated methods that would require more than just the row and column sums of the tables (as in projections) but less than a combination of various conflicting information (as in compilation). The results are assessed against the official Supply, Use and Input-Output tables of Belgium, Germany, Italy, Netherlands, Finland, Austria and Slovakia by using matrix difference metrics. The main conclusion is that using the structures of previous years usually performs better than any other approach.
+ER  -
+TY  - JOUR
+AU  - Ricciato, F.
+AU  - Wirthmann, A.
+AU  - Giannakouris, K.
+AU  - Reis, F.
+AU  - Skaliotis, M.
+T1  - Trusted smart statistics: Motivations and principles
+JO  - Statistical Journal of the IAOS
+Y1  - 2019
+VL  - 35
+IS  - 4
+SP  - 589
+EP  - 603
+UR  - https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji190584
+M3  - https://doi.org/10.3233/SJI-190584
+
+
+
+
+
+
+
+N2  - In this contribution we outline the concept of Trusted Smart Statistics as the natural evolution of official statistics in the new datafied world. Traditional data sources, namely survey and administrative data, represent nowadays a valuable but small portion of the global data stock, much thereof being held in the private sector. The availability of new data sources is only one aspect of the global change that concerns official statistics. Other aspects, more subtle but not less important, include the changes in perceptions, expectations, behaviours and relations between the stakeholders. The environment around official statistics has changed: statistical offices are not any more data monopolists, but one prominent species among many others in a larger (and complex) ecosystem. What was established in the traditional world of legacy data sources (in terms of regulations, technologies, practices, etc.) is not guaranteed to be sufficient any more with new data sources. Trusted Smart Statistics is not about replacing existing sources and processes, but augmenting them with new ones. Such augmentation however will not be only incremental: the path towards Trusted Smart Statistics is not about tweaking some components of the legacy system but about building an entirely new system that will coexist with the legacy one. In this position paper we outline some key design principles for the new Trusted Smart Statistics system. Taken collectively they picture a system where the smart and trust aspects enable and reinforce each other. A system that is more extrovert towards external stakeholders (citizens, private companies, public authorities) with whom Statistical Offices will be sharing computation, control, code, logs and of course final statistics, without necessarily sharing the raw input data. 
+ER  -
+TY  - JOUR
+AU  - Sanz, A. F.
+AU  - Luhmann, S.
+AU  - Moraleda, A. G.
+T1  - Official Statistics through the eyes of students and teachers – The European Statistics Competition
+JO  - AStA Wirtschafts- und Sozialstatistisches Archiv
+Y1  - 2019
+VL  - 13
+
+SP  - 245
+EP  - 255
+UR  - https://link.springer.com/content/pdf/10.1007\%2Fs11943-019-00249-5.pdf
+M3  - https://doi.org/10.1007/s11943-019-00249-5
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Sutcliffe, L. M. E.
+AU  - Schraml, A.
+AU  - Eiselt, B.
+AU  - Oppermann, R.
+T1  - The LUCAS grassland module pilot – Qualitative monitoring of grassland in Europe
+JO  - Palaearctic Grasslands
+Y1  - 2019
+VL  - 40
+
+SP  - 27
+EP  - 31
+UR  - https://edgg.org/sites/default/files/page/Palaearctic_Grasslands_40_0.pdf
+M3  - https://doi.org/10.21570/EDGG.PG40
+
+
+
+
+
+
+
+N2  - The Land Use/Cover Area-Frame Survey (LUCAS) is a European inventory carried out every three years and coordinated by Eurostat. It aims to provide information for policy and science on land use, land cover and environmental parameters by surveying a statistically representative sample of points spread across the EU countries. In 2018, a new grassland module was piloted within the survey. This pilot aims to collect detailed information on the environmental and ecological quality of the grassland, as well as its type and intensity of use. Between April and July 2018, 3734 grassland points in 26 countries were surveyed using this standardised methodology. Of these points, 747 underwent an additional quality control to check the accuracy of the survey method. This is the first time a standardised methodology has been used to collect ecological data on grasslands in a coordinated manner over so wide a geographical range in Europe. The analysis of the data from this survey is ongoing, so the purpose of this article is to briefly describe the method used in the new grassland module and inform readers about how this pilot was developed.
 ER  -
