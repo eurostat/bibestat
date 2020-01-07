@@ -14,7 +14,7 @@ Also note the online presence of _Eurostat_ current staff in online libraries, _
 
 **Source**
 
-All reference publications are available in the **_BibTeX_ file [`eurostatref.bib`](eurostatref.bib)**. Use your favourite bibliography reference manager (_e.g._, [`JabRef`](http://www.jabref.org)) to use/manage the database (see also [below](#html)).
+All _Eurostat_ bibliographical references are available in the **_BibTeX_ [`eurostatref.bib`](eurostatref.bib) file**. Use your favourite bibliography reference manager (_e.g._, [`JabRef`](http://www.jabref.org) but [other solutions exist](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)) to use/manage the database.
 
 **Contents**
 
@@ -36,4 +36,4 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 
 **Notes**
 
-
+When editing the `eurostatref.bib` database, use common [bibliography rules](https://en.wikipedia.org/wiki/Citation). Additionally, consider [standard `LaTeX` syntax](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management) for bibliographical references. Last, take into account the existing strings (see header of `eurostatref.bib` file) when adding a publication.
