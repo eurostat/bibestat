@@ -29,9 +29,9 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 </table>
 
 *  **[*html/*](html)**: in `html`, like in the searchable table below: 
-<table>
+<table style="margin-left:auto;margin-right:auto;">
 <tr>
-<td><kbd><a href="https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html"><img src="docs/html.png" alt="html table" width="400"></a></kbd></td>
+<td><kbd><a href="https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html"><img src="docs/html.png" alt="html table" width="500"></a></kbd></td>
 </tr>
 </table>
 
