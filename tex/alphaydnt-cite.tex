@@ -1,0 +1,44 @@
+\documentclass{article}
+
+\usepackage[breaklinks,colorlinks=true]{hyperref}
+
+\usepackage[sorting=ydnt,style=alphabetic,backend=bibtex]{biblatex}
+
+\DeclareSortingTemplate{ydnt}{
+  \sort{
+    \field{presort}
+  }
+  \sort[final]{
+    \field{sortkey}
+  }
+  \sort[direction=descending]{
+    \field{sortyear}
+    \field{year}
+    \literal{9999}
+  }
+  \sort{
+    \field{sortname}
+    \field{author}
+    \field{editor}
+    \field{sorttitle}
+    \field{title}
+  }
+  \sort{
+    \field{sorttitle}
+    \field{title}
+  }
+}
+
+\AtEveryBibitem{\clearfield{note}}
+\AtEveryCitekey{\clearfield{note}}
+
+\addbibresource{../eurostatref.bib}
+
+\begin{document}
+
+\nocite{*}
+
+
+\printbibliography[title={Eurostat staff publications \textendash{} {\sf alphabetic} style, {\sf descending year - name - title} order}]
+
+\end{document}

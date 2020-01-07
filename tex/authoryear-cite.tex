@@ -1,0 +1,37 @@
+\documentclass{article}
+
+\usepackage[breaklinks,colorlinks=true]{hyperref}
+\usepackage[usenames]{color}
+\definecolor{darkblue}{rgb}{0,0.1,0.7}
+\hypersetup{
+  pdfborder={0 0 0},
+  colorlinks,
+  breaklinks=true,
+  urlcolor={darkblue},
+  citecolor={darkblue},
+  linkcolor={darkblue}
+}
+
+\usepackage[sorting=ydnt,style=authoryear,backend=bibtex]{biblatex}
+
+\defbibfilter{inbook}{type=inbook or type=incollection}
+\defbibfilter{inproceedings}{type=inproceedings or type=proceedings}
+\defbibfilter{reports}{type=report or type=manual}
+\DeclareFieldFormat{abstract}{\par\small#1}
+\renewbibmacro*{finentry}{\printfield{abstract}\finentry}
+
+\addbibresource{../eurostatref.bib}
+
+\begin{document}
+
+\section*{Eurostat staff publications with abstracts \textendash{} {\sf authoryear} style, {\sf year - name - title} order}
+
+\nocite{*}
+
+\printbibliography[type=book,title={Books}]
+\printbibliography[filter=inbook,title={Book chapters}]
+\printbibliography[type=article,title={Journal articles}]
+\printbibliography[filter=inproceedings,title={Conference articles}]
+\printbibliography[filter=reports,title={Reports and manuals}]
+
+\end{document}

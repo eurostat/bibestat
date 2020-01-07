@@ -1,0 +1,15 @@
+<tr id="\format{\bibtexkey}" class="entry">
+	<td><center>\year</center></td>
+	<td><center>\begin{doi}<a href="\format[DOICheck]{\doi}">DOI</a> \end{doi}\begin{url}<a href="\format{\url}">URL</a>\end{url}<!--\begin{isbn}<a href="\format{\isbn}">ISBN</a>\end{isbn}--></center></td>
+	<td><large><em><a href="\format{\url}">\format[HTMLChars]{\title}</a></em></large></td>
+	<td>\format[Authors(LastFirst,InitialsNoSpace),HTMLChars]{\author}</td>
+	<!-- <td><i>\format[HTMLChars]{\keywords}</i></td> -->
+	<td>\begin{institution}\format[HTMLChars]{\institution}\end{institution}
+	\format[HTMLChars]{\journal}\begin{volume}, \volume\end{volume}\begin{number}(\format[FormatPagesForHTML]{\number})\end{number}\format[HTMLChars]{\booktitle}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}
+	\begin{howpublished}\format[HTMLChars]{\howpublished}\end{howpublished}
+	</td>
+	<td><small><span class="ShortText">\begin{abstract}\format[HTMLChars]{\abstract}\end{abstract}</span></small></td>
+	<!-- <td>\format[ToLowerCase]{\bibtextype}</td>  -->
+	<!-- <td><center>\format[HTMLChars]{\language}</center></td> -->
+	<!-- <td><center>\format[HTMLChars]{\timestamp}</center></td> -->
+</tr>
