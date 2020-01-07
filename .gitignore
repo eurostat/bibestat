@@ -1,0 +1,15 @@
+.gitattributes
+*~
+*/*~
+.DS_Store
+*/.DS_Store
+tex/*.bbl
+tex/*.blg
+tex/*.aux
+tex/*.log
+tex/*.out
+tex/*-blx.bib
+tex/*.run.xml
+tex/*.synctex.gz
+*.sav
+*.bak
