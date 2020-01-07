@@ -39,8 +39,8 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 Use your favourite [bibliography reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) to handle/manage the database. For instance, using [`JabRef`](http://www.jabref.org):
 
 <p align="center">
-<img src="docs/jabref-1.png" alt="jabref publication management as a database" width="350"><
-<img src="docs/jabref-2.png" alt="jabref publication management as a bibtex" width="350">
+<img src="docs/jabref-1.png" alt="jabref publication management as a bibtex file" width="300"><
+<img src="docs/jabref-2.png" alt="jabref publication management as a database" width="300">
 </p>
 
 When editing the `eurostatref.bib` database, use common [bibliography rules](https://en.wikipedia.org/wiki/Citation). Additionally, consider [standard `LaTeX` syntax](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management) for bibliographical references. Last, take into account the existing strings (see header of `eurostatref.bib` file) when adding a publication.
