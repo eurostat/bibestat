@@ -1,7 +1,7 @@
 bibestat
 ======
 
-_Eurostat_ bibliographical footprint.
+_Eurostat_ scientific footprint.
 ---
 
 **<a name="About"></a>About**
