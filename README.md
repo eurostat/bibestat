@@ -20,7 +20,7 @@ Also note the online presence of some of _Eurostat_ staff in online libraries, _
 
 To reference _Eurostat_ publications, you can use the source file above, for instance:
 
-*  <a name="html"></a>**[*html/*](html)** : in `html`, like in the searchable table [above](#About). With [`JabRef`](http://www.jabref.org) bibliography reference manager, it is possible to produce such a table by adopting the layout model described in http://www.markschenk.com/tools/jabref/. For that purpose, the customised layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are made available. Those can be easily modified so as to export the bibliography to different layout models. 
+*  <a name="html"></a>**[*html/*](html)** : in `html`, like in the searchable table [above](#About). With [`JabRef`](http://www.jabref.org) bibliography reference manager, it is possible to produce such a table by adopting the layout model described in http://www.markschenk.com/tools/jabref/. For that purpose, the customised layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are made available. Those can be easily modified so as to export the bibliography to different layout models (see `JabRef` page on [custom exports](https://docs.jabref.org/import-export/export/customexports)). 
 
 *  <a name="tex"></a>**[*tex/*](tex)** : in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers, generating `pdf`'s like in the examples below: 
 <table>
