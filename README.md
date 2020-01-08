@@ -22,7 +22,7 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 
 *  <a name="html"></a>**[*html/*](html)** : in `html`, like in the searchable table [above](#About). With [`JabRef`](http://www.jabref.org) bibliography reference manager, it is possible to produce such a table by adopting the layout model described in http://www.markschenk.com/tools/jabref/. For that purpose, the customised layout files [`tabref-bibestat.layout`](html/tabref-bibestat.layout), [`tabref-bibestat.begin.layout`](html/tabref-bibestat.begin.layout), and [`tabref-bibestat.end.layout`](html/tabref-bibestat.end.layout) are made available. Those can be easily modified so as to export the bibliography to different layout models (see `JabRef` page on [custom exports](https://docs.jabref.org/import-export/export/customexports)). 
 
-*  <a name="tex"></a>**[*tex/*](tex)** : in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers. Some `LaTeX` template files using different bibliographic styles (and a basic `nocite` call) are made available so that you can generate `pdf`'s like in the examples below: 
+*  <a name="tex"></a>**[*tex/*](tex)** : in `LaTeX` documents, together with any `BibTeX/BibLaTeX/Biber` bibliography compilers. Some `LaTeX` template files (with a basic `nocite` call) using different bibliographic styles (_e.g._, [`apalike`](tex/apalike-cite.tex), [`plainurl`](tex/plainurl-cite.tex), _etc..._) are made available so that you can generate `pdf`'s like in the examples below: 
 <table>
 <tr>
 <td><kbd><a href="https://github.com/eurostat/bibestat/blob/master/tex/alphaydnt-cite.pdf"><img src="docs/alphaydnt.png" alt="alphabetic style, descending year - name - title order" width="240"></a></kbd></td>
