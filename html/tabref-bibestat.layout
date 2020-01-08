@@ -4,9 +4,7 @@
 	<td><large><em><a href="\format{\url}">\format[HTMLChars]{\title}</a></em></large></td>
 	<td>\format[Authors(LastFirst,InitialsNoSpace),HTMLChars]{\author}</td>
 	<!-- <td><i>\format[HTMLChars]{\keywords}</i></td> -->
-	<td>\begin{institution}\format[HTMLChars]{\institution}\end{institution}
-	\format[HTMLChars]{\journal}\begin{volume}, \volume\end{volume}\begin{number}(\format[FormatPagesForHTML]{\number})\end{number}\format[HTMLChars]{\booktitle}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}
-	\begin{howpublished}\format[HTMLChars]{\howpublished}\end{howpublished}
+	<td>\begin{institution}\format[HTMLChars]{\institution}\end{institution}\format[HTMLChars]{\booktitle}\format[HTMLChars]{\journal}\begin{volume}, \volume\end{volume}\begin{number}(\format[FormatPagesForHTML]{\number})\end{number}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages} \begin{howpublished}\format[HTMLChars]{\howpublished}\end{howpublished}
 	</td>
 	<td><small><span class="ShortText">\begin{abstract}\format[HTMLChars]{\abstract}\end{abstract}</span></small></td>
 	<!-- <td>\format[ToLowerCase]{\bibtextype}</td>  -->
