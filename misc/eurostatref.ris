@@ -257,7 +257,7 @@ Y1  - 2018
 
 
 
-UR  - https://www.q2018.pl/wp-content/uploads/Sessions/Session\%2031/Fabian\%20Bach/Session\%2031_\%20Fabian\%20Bach.docx
+UR  - https://www.q2018.pl/wp-content/uploads/Sessions/Session%2031/Fabian%20Bach/Session%2031_%20Fabian%20Bach.docx
 
 
 
@@ -323,7 +323,7 @@ Y1  - 2018
 
 
 
-UR  - https://www.q2018.pl/wp-content/uploads/Sessions/Session\%2019/Denisa\%20Florescu/Session\%2019_Denisa\%20Florescu.DOCX
+UR  - https://www.q2018.pl/wp-content/uploads/Sessions/Session%2019/Denisa%20Florescu/Session%2019_Denisa%20Florescu.DOCX
 
 
 
@@ -574,6 +574,32 @@ UR  - https://coms.events/ntts2019/data/x_abstracts/x_abstract_90.docx
 N2  - A flag is an attribute of a cell in a data set that provides additional qualitative information about the statistical value of that cell. They can indicate a wide range of information, for example, that a given value is estimated, confidential or represents a break in the time series. Currently different sets of flags are in use in the European Statistical System (ESS). Some statistical domains use the SDMX code list for observation status and confidentiality status, OECD uses a simplified version of the SDMX code lists and Eurostat uses a short list of flags for dissemination which combines the observation and confidentiality status. While in most cases it is well defined how a flag shall be assigned to an individual value, it is not straightforward to decide what flag shall be propagated to aggregated values like a sum, an average, quantiles, etc. This topic is important for Eurostat as the European aggregates are derived from national data points. Thus the information contained in the individual flags need to be summarized in a flag for the aggregate. This issue is not unique to Eurostat, but can occur for any aggregated data. For example, a national statistical institute may derive the national aggregate from regional data sets. In addition, the dissemination process provides further peculiarity: only a limited set of flags, compared to the set of flags used in the production process, can be applied in order to make it easily understandable to the users. In the scientific community there is a wide range of research about the consequences of data aggregation but it concentrates only on the information loss during aggregation of information and there is no scientific guidance how to aggregate flags. This paper is an attempt to provide a picture about the current situation and provide some systematic guidance how to aggregate flags in a coherent way. Eurostat is testing various approaches with a view to well balance transparency and clarity of the information made available to users in a flag. From several options, 3 methods (hierarchical, frequency and weighted frequency) are implemented in an R package for assigning a flag to an aggregate based on the underlying flags and values. Since the topic has relevance outside of Eurostat as well, it was decided to publish the respective code with documentation with a view to foster re-use within the European Statistical System and to stimulate discussion, including with the user community.
 ER  -
 TY  - CONF
+AU  - Museux, J.-M.
+AU  - Peeters, M.
+AU  - João Santos, M.
+A2  - Domingo-Ferrer, J.
+A2  - Saygın, Y.
+T1  - Legal, political and methodological issues in confidentiality in the European Statistical System
+T2  - Proc. International Conference on Privacy in Statistical Databases
+PB  - Springer
+AD  - #A_H#
+Y1  - 2008
+VL  - 5262
+
+SP  - 324
+EP  - 334
+UR  - https://link.springer.com/chapter/10.1007/978-3-540-87471-3_27
+M3  - https://doi.org/10.1007/978-3-540-87471-3_27
+
+
+
+
+
+
+
+N2  - The paper discusses the challenges linked to the need of the research community to have access to microdata files for scientific purposes. These needs have to be adequately balanced with the legal requirement of preserving the confidentiality of respondents. The paper presents the policies and instruments available at the European Union to progress in the supply of data to the research community, while respecting the legal requirements. More specifically, the paper explains the current process dealing with research projects and the work of the European Statistical System Network (ESSnet) project for statistical disclosure control. Finally the paper describes future trends that are currently investigated in the European Union, and more specifically the development of remote access facilities, the enhancement of disclosure control tools and the convergence towards common policies in Member States.
+ER  -
+TY  - CONF
 AU  - Martins Ferreira, P.
 AU  - Rémond-Tiedrez, I.
 AU  - Rueda-Cantuche, J. M.
@@ -741,6 +767,31 @@ UR  - https://ec.europa.eu/eurostat/cros/system/files/mno_spatial_density_riccia
 
 
 N2  - The concept of 'present population' is gaining increasing attention in official statistics. The (almost) continuous measurement of present population provides a basis to derive indicators of population exposure that are relevant in different application domains. One possible approach to measure present population exploits data from Mobile Network Operators (MNO), including CDR but also more informative (and complex) signalling records. Such data, collected primarily for network operation processes, can be repurposed to infer patterns of human mobility. Two decades of research literature have produced several case studies (mostly limited to CDR data) and a variety of ad-hoc methodologies tailored to specific datasets. Moving beyond the stage of explorative research, towards production of official statistics, requires a more systematic and sustainable approach to methodological development. Towards this aim, Eurostat and other members of the European Statistical System (ESS are working towards the definition of a general Reference Methodological Framework. In this contribution we report on the methodological aspects related to the estimation of present population density, for which we present a general and modular methodological structure. Along the way, we identify a number of specific research (sub)problems requiring further attention by the research community.
+ER  -
+TY  - CONF
+AU  - Reuter, W. H.
+AU  - Museux, J.-M.
+A2  - Domingo-Ferrer, J.
+A2  - Magkos, E.
+T1  - Establishing an infrastructure for remote access to microdata at Eurostat
+T2  - Proc. International Conference on Privacy in Statistical Databases
+PB  - Springer
+AD  - #A_H#
+Y1  - 2010
+VL  - 6344
+
+SP  - 249
+EP  - 257
+UR  - https://link.springer.com/chapter/10.1007%2F978-3-642-15838-4_22
+M3  - https://doi.org/10.1007/978-3-642-15838-4_22
+
+
+
+
+
+
+
+N2  - Eurostat is pursuing the establishment of an infrastructure for remote access for researchers in order to satisfy the growing demand for microdata. Some European countries already implemented such solutions. This paper compares the systems which can be categorized in (1) terminal server, (2) distance network and (3) job submission systems. They differ in IT infrastructure, workstation control, user management and authentication, file systems and disclosure control activities. The second part of the paper describes the efforts and outlook as well as options and challenges for Eurostat when building such a system.
 ER  -
 TY  - CONF
 AU  - Rueda-Cantuche, J. M.
@@ -977,7 +1028,7 @@ Y1  - 2018
 
 
 
-UR  - https://www.q2018.pl/wp-content/uploads/Sessions/Session\%2037/M\%C3\%A1ty\%C3\%A1s\%20M\%C3\%A9sz\%C3\%A1ros/Session\%2037_Matyas\%20Meszaros.docx
+UR  - https://www.q2018.pl/wp-content/uploads/Sessions/Session%2037/M%C3%A1ty%C3%A1s%20M%C3%A9sz%C3%A1ros/Session%2037_Matyas%20Meszaros.docx
 
 
 
@@ -1186,6 +1237,55 @@ M3  - https://doi.org/10.2785/941452
 
 N2  - Seasonal adjustment procedures are usually designed for being applied on sufficiently long time series in order to obtain good quality results. This is due both to technical reasons such as the properties of the symmetric filters used and to non-technical ones such as the fact that, over a sufficiently long time period, components can be better identified and separated; consequently, the seasonal component can be more precisely estimated and eventually removed. In addition, long time series are required in order to read properly the statistics of the seasonality tests. Furthermore, on short time series the seasonality tests might be less robust. In official statistics, available time series associated to statistical indicators are often relatively short or subject to some shortening processes. This seems to contradict one of the main quality dimensions of statistics which is the coverage, but, at the same time, official statistics need to be continuously improved to better reflect the socio-economic structure. This process unavoidably leads to regularly adapting existing official statistics to evolving socio-economic structure. Furthermore better reflecting the current socio-economic situation can also require the development and the statistical compilation of new indicators, which at least in a first phase will cover only a limited time span. These two processes imply, at least temporarily, the availability of short time series associated to the statistical indicators.
 ER  -
+TY  - CHAP
+AU  - Götzfried, A.
+A2  - Lausen, B.
+A2  - Krolak-Schwerdt, S.
+A2  - Böhmer, M.
+T1  - Modernising Official Statistics: A complex challenge
+T2  - Data Science, Learning by Latent Structures, and Knowledge Discovery
+PB  - Springer
+
+Y1  - 2015
+
+
+SP  - 3
+EP  - 11
+UR  - https://link.springer.com/chapter/10.1007%2F978-3-662-44983-7_1
+M3  - https://doi.org/10.1007/978-3-662-44983-7_1
+
+
+
+
+
+
+
+N2  - In Europe, national statistical organisations and Eurostat, the statistical office of the European Union, produce and disseminate official statistics. These organisations come together as partners in the European Statistical System (ESS). This paper describes the ESS, the challenges it faces and the modernisation efforts that have been undertaken based on a redesigned ESS enterprise architecture. It also outlines the probable future direction of the ESS.
+ER  -
+TY  - JOUR
+AU  - Aprigliano, V.
+AU  - Foroni, C.
+AU  - Marcellino, M.
+AU  - Mazzi, G.
+AU  - Venditti, F.
+T1  - A daily indicator of economic growth for the Euro area
+JO  - International Journal of Computational Economics and Econometrics
+Y1  - 2017
+VL  - 7
+IS  - 1-2
+SP  - 43
+EP  - 63
+UR  - http://www.igier.unibocconi.it/files/570.pdf
+M3  - https://doi.org/10.1504/IJCEE.2017.080636
+
+
+
+
+
+
+
+N2  - In this paper, we study alternative methods to construct a daily indicator of growth for the euro area. We aim for an indicator that (i) provides reliable predictions, (ii) can be easily updated at the daily frequency, (iii) gives interpretable signals, and (iv) it is linear. Using a large panel of daily and monthly data for the euro area we explore the performance of two classes of models: bridge and U-MIDAS models, and different forecast combination strategies. Forecasts obtained from U-MIDAS models, combined with the inverse MSE weights, best satisfy the required criteria.
+ER  -
 TY  - JOUR
 AU  - Agafitei, M.
 AU  - Gras, F.
@@ -1209,6 +1309,71 @@ M3  - https://doi.org/10.3233/sji-150902
 
 
 N2  - Many statistical offices have been moving towards an increased use of administrative data sources for statistical purposes, both as a substitute and as a complement to survey data. Moreover, the emergence of big data constitutes a further increase in available sources. As a result, statistical output in official statistics is increasingly based on complex combinations of sources.The quality of such statistics depends on the quality of the primary sources and on the ways they are combined.This paper analyses the appropriateness of the current set of output quality measures for multiple source statistics, it explains the need for improvement and outlines directions for further work. The usual approach for measuring the quality of the statistical output is to assess quality through the measurement of the input and process quality. The paper argues that in multisource production environment this approach is not sufficient. It advocates measuring quality on the basis of the output itself - without analysing the details of the inputs and the production process - and proposes directions for further development.
+ER  -
+TY  - JOUR
+AU  - Bikauskaite, A.
+AU  - Götzfried, A.
+AU  - Völfinger, Z.
+T1  - The EuroGroups Register
+JO  - Statistika
+Y1  - 2019
+VL  - 99
+IS  - 1
+SP  - 69
+EP  - 76
+UR  - https://www.czso.cz/documents/10180/88506450/32019719q1_069.pdf
+
+
+
+
+
+
+
+
+N2  - Globalisation presents significant statistical challenges, particularly for small and open economies in terms of measuring statistical indicators and communicating the results to users. The European Statistical System allocated high priority to the better measuring of globalisation in the statistical processes and output, in business or macro-economic statistics. Some concrete actions were already undertaken such as setting up of the EuroGroups Register of multinational enterprise groups and the putting in place of a so-called Early-warning System for monitoring restructurings of the groups. This paper focuses on the EuroGroups Register (EGR), the central statistical business register of Eurostat and the EU and EFTA countries' statistical authorities. The EGR is part of the EU statistical infrastructure and has been built up to better capture globalisation effects as well as for improving the consistency of national data on enterprise groups 4 .
+ER  -
+TY  - JOUR
+AU  - Bautier, P.
+AU  - Laevaert, C.
+AU  - Le Goff, B.
+T1  - Tracking users for a targeted dissemination
+JO  - Statistika
+Y1  - 2015
+VL  - 95
+IS  - 4
+SP  - 77
+EP  - 78
+UR  - https://www.czso.cz/documents/10180/20550319/32019715q4067.pdf
+
+
+
+
+
+
+
+
+N2  - How to build a dissemination and communication strategy in a world where users have easy access to a deluge of data and information from various origins and where IT tools and design standards change so quickly that users behaviour and their expectations are continuously modified? The first challenge of Eurostat is clearly to know what users want: we know our different types of users but we have to identify how they get our data, what they do with our data, how they react to our outputs and which sort of new service they would like us to propose. Translating these needs into a visual dissemination is a new challenge undertaken by Eurostat through a new portal, new mobile apps and new info graphs and basic application as well as increasing the visibility on Google. The objective of this paper is to share Eurostat's experience in identifying user needs and to show how concretely this information has been visually disseminated.
+ER  -
+TY  - JOUR
+AU  - Bujnowska, A.
+AU  - Museux, J.-M.
+T1  - Release of European Union microdata, ESS projects on remote access
+JO  - Statistical Journal of the IAOS
+Y1  - 2009
+VL  - 26
+IS  - 3-4
+SP  - 89
+EP  - 94
+UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji00709?id=statistical-journal-of-the-iaos%2Fsji00709
+M3  - https://doi.org/10.3233/SJI-2009-0709
+
+
+
+
+
+
+
+N2  - This paper outlines microdata access methods at the European level, and specifically to data governed by European Union (EU) Regulation 831/2002 or where explicit approval of the EU Members is given on the access to particular datasets via Eurostat safe centre. Access to EU microdata for research purposes was enabled in 2002 when the Commission Regulation (EC) No 831/2002 came into force. Since then more than 100 contracts have been signed each year with research organisations for the provision of microdata for scientific purposes. The current Regulation foresees two ways of access to microdata: access to anonymised microdata files, and access to confidential data in the safe centre in Eurostat premises in Luxembourg. The first part of the paper outlines the legal framework at the EU level. The second part discusses the different modes and conditions of access as well as practical issues related to access to microdata in general. The final part provides an overview of the projects currently carried out in the domain of remote access at the European level. The situation with regards to the access to EU microdata will evolve in the near future with the new regulatory framework and subsequent changes in the governance structure for statistical confidentiality in the European Statistical System.
 ER  -
 TY  - JOUR
 AU  - Buono, D.
@@ -1235,6 +1400,74 @@ UR  - https://ec.europa.eu/eurostat/cros/system/files/euronaissue1-2017-art4.pdf
 N2  - In this paper we present a detailed discussion on various types of big data which can be useful in macroeconomic nowcasting. In particular, we review the big data sources, availability, specific characteristics and their use in the literature. We conclude this paper identifying the big data types which could be adopted for real applications.
 ER  -
 TY  - JOUR
+AU  - Brandmueller, T.
+AU  - Schäfer, G.
+AU  - Ekkehard, P.
+AU  - Müller, O.
+AU  - Angelova-Tosheva, V.
+T1  - Territorial indicators for policy purposes: NUTS regions and beyond
+JO  - Regional Statistics
+Y1  - 2017
+VL  - 7
+IS  - 1
+SP  - 78
+EP  - 89
+UR  - http://www.ksh.hu/docs/hun/xftp/terstat/2017/rs070105.pdf
+M3  - https://doi.org/10.15196/RS07105
+
+
+
+
+
+
+
+N2  - Regional statistics, along with the NUTS (Nomenclature des Unités Territoriales Statistiques, or Nomenclature of Territo-rial Units for Statistics) classification, al-ready have a solid tradition. They have developed into a very useful tool for de-tailed analyses and have become the basis for important decisions in the allocation of EU funding. Gradually, the scope of regional statistics has widened, and re-gional statistics now play a role in several statistical domains with a wide range of statistical indicators. The recognition that many of the social and economic issues Europe faces today have urban or rural characteristics has led to an initiative to supplement statistical da-ta on NUTS regions with data on cities and rural areas. These sub-national statistics allow policy makers to better target their policies. For example, in some parts of Eu-rope, poverty and social exclusion are clear-ly an urban problem, while in other areas they are primarily a rural problem. A further aspect that has gained considera-ble importance in territorial policy making - as well as in public awareness - concerns the so-called functional regions, which are selected or constructed from more detailed geographical units according to specific features. The labour market area is one ex-ample of this type of functional delinea-tion, which helps to shed light on im-portant territorial characteristics. The fast-growing use of geographic in-formation and new technical facilities has created possibilities for merging statistics and related geographical information into so-called spatial statistics. An example is grid-based population data, which helps to determine the concrete locations of peo-ple with access to certain facilities (e.g. public transport, airports) or to identify a population close to the sea. Through the intensive use of map-related functions, the utility of regional and urban statistics can also be enhanced, and different statistics can be combined. This paper argues that different sub-national statistics offer different but inter-related perspectives. They can be com-bined in multiple ways to create new pos-sibilities for policy analysis and to illus-trate social and economic characteristics at varying levels of geographic detail.
+ER  -
+TY  - JOUR
+AU  - Defays, D.
+AU  - Museux, J.-M.
+T1  - Discussion
+JO  - Journal of Official Statistics
+Y1  - 2013
+VL  - 29
+IS  - 1
+SP  - 147
+EP  - 155
+UR  - https://content.sciendo.com/view/journals/jos/29/1/article-p147.xml
+M3  - https://doi.org/10.2478/jos-2013-0008
+
+
+
+
+
+
+
+N2  - This discussion draws mainly on four contributions in this special issue (those of Statistics New Zealand, NASS, RTI International and Statistics Netherlands) that report on experiences in integrating statistical production systems with a direct focus on industrialisation and integration-related issues. The framework proposed by Eltinge et al. for the integration of architecture and methodology is also taken on board. The article on the Real-Time Online Analytic System (Westat/NCHS) is marginally integrated into the discussion on data access.
+ER  -
+TY  - JOUR
+AU  - Hamadeh, N.
+AU  - Mouyelo-Katoula, M.
+AU  - Konijn, P.
+AU  - Koechlin, F.
+T1  - Purchasing power parities of currencies and real expenditures from the international comparison program: Recent results and uses
+JO  - Social Indicators Research
+Y1  - 2017
+VL  - 131
+IS  - 1
+SP  - 23
+EP  - 42
+UR  - https://link.springer.com/content/pdf/10.1007%2Fs11205-015-1215-z.pdf
+M3  - https://doi.org/10.1007/s11205-015-1215-z
+
+
+
+
+
+
+
+N2  - The International Comparison Program (ICP) is a worldwide statistical initiative designed to estimate purchasing power parities (PPPs) that can be used as currency converters to compare the performance of countries around the world, thereby providing in-depth views of the distribution of resources worldwide. The 2011 round of the ICP was leveraged on the successful outcome of the 2005 round that included 146 countries, introducing various methodological improvements. The summary report and results from the 2011 round were released in April 2014 and provided PPPs, price levels indices, and expenditures in PPP terms for the GDP and major aggregates for 199 participating countries. More detailed results were released in June 2014 and a final comprehensive report in October 2014. The final report provided a more in-depth analysis of volume and per capita indices. The results stirred a strong debate among the user community because of their finding that the world has become more equal than previously thought. The purpose of this paper is to provide an overview of the main results and findings of ICP 2011, its governance framework and partnership with the Eurostat-Organization for Economic Co-operation and Development (OECD) PPP program, and the major methodological innovations that were implemented. The paper reviews the major uses of the PPPs generated by the ICP 2011 and the Eurostat-OECD PPP program, and concludes with thoughts about the future of the ICP.
+ER  -
+TY  - JOUR
 AU  - Hagsten, E.
 AU  - Sabadash, A.
 T1  - A neglected input to production: The role of ICT-schooled employees in firm performance
@@ -1254,6 +1487,29 @@ M3  - https://doi.org/10.1108/IJM-05-2015-0073
 
 
 N2  - The purpose of this paper is to broaden the perspective on how information and communication technology (ICT) relates to productivity by introducing a novel ICT variable: the share of ICT-schooled employees in firms, an intangible input often neglected or difficult to measure.
+ER  -
+TY  - JOUR
+AU  - Haldorson, M.
+AU  - Zaccheddu, P.-G.
+AU  - Fohgrub, B.
+AU  - Petri, E.
+T1  - Geospatial information management in Europe – Responding to the user needs
+JO  - Statistical Journal of the IAOS
+Y1  - 2016
+VL  - 32
+IS  - 4
+SP  - 481
+EP  - 487
+UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji1010?id=statistical-journal-of-the-iaos%2Fsji1010
+M3  - https://doi.org/10.3233/SJI-161010
+
+
+
+
+
+
+
+N2  - The United Nations initiative on Global Geospatial Information Management (UN-GGIM) aims at playing a leading role in setting the agenda for the development of global geospatial information and to promote its use to address key global challenges like the UN Sustainable Development Goals. The regional committee UN-GGIM: Europe was established in October 2014 and by October 2015, at its second plenary meeting, recommendations were adopted on better integration of geospatial and statistical information in order to foster further usage. The recommendations can be found in a report titled ''Definition of the priority user needs for combinations of data''. This article reflects the main content of the report: identifying relevant policies, collecting use cases, describing and responding to user needs and finally making recommendations on how to improve the integration of statistical and geospatial information. The most strategic recommendation is that Europe should aim for a European Spatial Data Strategy. Other recommendations deal with priority data for a Statistical Geospatial Framework and support the improvement of workflows with geospatial technology.
 ER  -
 TY  - JOUR
 AU  - Infante, E.
@@ -1278,6 +1534,118 @@ U1  - 1977-978X
 N2  - In this paper we propose a new a priori test to be used for the identification of a common seasonal pattern. The test is applied a priori to any running of a seasonal adjustment procedure. The test is a three way ANOVA, where the three factors are the series, the time frequency and the year. One of the possible applications of using such a test would be when selecting either the direct or indirect approach when seasonally adjusting. The Seasonally Adjusted series of an aggregate can be obtained by seasonal adjusting it (direct approach) or by aggregating the seasonally adjusted individual series (indirect approach). It should be noted that, to date, the literature has been mainly focusing on an a posteriori comparison among the results achieved by applying different approaches. This paper seeks to set out an a priori strategy for the identification of the most effective seasonal adjustment of the aggregate.
 ER  -
 TY  - JOUR
+AU  - Ioannidis, E.
+AU  - Merkouris, T.
+AU  - Zhang, L.-C.
+AU  - Karlberg, M.
+AU  - Petrakos, M.
+AU  - Reis, F.
+AU  - Stavropoulos, P.
+T1  - On a modular approach to the design of integrated social surveys
+JO  - Journal of Official Statistics
+Y1  - 2016
+VL  - 32
+IS  - 2
+SP  - 259
+EP  - 286
+UR  - https://content.sciendo.com/view/journals/jos/32/2/article-p259.xml
+M3  - https://doi.org/10.1515/jos-2016-0013
+
+
+
+
+
+
+
+N2  - This article considers a modular approach to the design of integrated social surveys. The approach consists of grouping variables into ‘modules’, each of which is then allocated to one or more ‘instruments’. Each instrument is then administered to a random sample of population units, and each sample unit responds to all modules of the instrument. This approach offers a way of designing a system of integrated social surveys that balances the need to limit the cost and the need to obtain sufficient information. The allocation of the modules to instruments draws on the methodology of split questionnaire designs. The composition of the instruments, that is, how the modules are allocated to instruments, and the corresponding sample sizes are obtained as a solution to an optimisation problem. This optimisation involves minimisation of respondent burden and data collection cost, while respecting certain design constraints usually encountered in practice. These constraints may include, for example, the level of precision required and dependencies between the variables. We propose using a random search algorithm to find approximate optimal solutions to this problem. The algorithm is proved to fulfil conditions that ensure convergence to the global optimum and can also produce an efficient design for a split questionnaire.
+ER  -
+TY  - JOUR
+AU  - Karlberg, M.
+T1  - Reviewers should ask the right questions – But is InfoQ the answer?
+JO  - Statistical Journal of the IAOS
+Y1  - 2016
+VL  - 32
+IS  - 1
+SP  - 29
+EP  - 31
+UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji980?id=statistical-journal-of-the-iaos%2Fsji980
+M3  - https://doi.org/10.3233/SJI-160980
+
+
+
+
+
+
+
+N2  - Kenett and Shmueli rightly note that statisticiansin academia, industry (and the public sector for that matter!) are regularly reviewing papers for journals without a general framework to help them guide the review process, meaning that "it is typically left to the reviewer's experience and good sense to determine the contribution of a paper". The inevitable consequence is indeed that the review process "is usually carriedout in an unstructured way with inherent variability between reviewers".To remedy this regrettable state of affairs, the authors propose that a set of items based on the InfoQ framework be adopted in the reviewing process of applied journals. This discussion paper which reflects on their proposal, starts by identifying possible actions complementary to a reviewing framework in Section 2. Thereafter, the applicability of the proposed framework is discussed in Section 3, while Section 4 contains some concluding remarks.
+ER  -
+TY  - JOUR
+AU  - Koechlin, F.
+AU  - Konijn, P.
+AU  - Lorenzoni, L.
+AU  - Schreyer, P.
+T1  - Comparing hospitals and health prices and volumes across countries: A new approach
+JO  - Social Indicators Research
+Y1  - 2017
+VL  - 131
+IS  - 1
+SP  - 43
+EP  - 64
+UR  - https://link.springer.com/content/pdf/10.1007%2Fs11205-015-1196-y.pdf
+M3  - https://doi.org/10.1007/s11205-015-1196-y
+
+
+
+
+
+
+
+N2  - Health services are among the most comparison-resistant services in international comparisons such as the Eurostat–OECD Purchasing Power Parities (PPP) program and the ICP. Traditionally, PPPs for health services are estimated on the basis of input methods, e.g. by comparing salaries of doctors and nurses. This mainly reflects the difficulties inherent in measuring the output of services produced by nonmarket producers. Since 2007, OECD and Eurostat have undertaken work, with their Member States, to develop explicit output-based measures of prices and volumes of hospital services directed at comparisons across countries. The approach is based on collecting quasi-prices for a basket of comparable and representative medical and surgical hospital services. Eurostat and OECD used the new approach for the first time in their PPP calculations that entered the 2011 ICP benchmark round. The paper describes the output-based approach, the way it was developed and tested to assess its feasibility, and the results based on the latest data collection.
+ER  -
+TY  - JOUR
+AU  - Karlberg, M.
+AU  - Reis, F.
+AU  - Calizzani, C.
+AU  - Gras, F.
+T1  - A toolbox for a modular design and pooled analysis of sample survey programmes
+JO  - Statistical Journal of the IAOS
+Y1  - 2015
+VL  - 31
+IS  - 3
+SP  - 447
+EP  - 462
+UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji913?id=statistical-journal-of-the-iaos%2Fsji913
+M3  - https://doi.org/10.3233/SJI-150913
+
+
+
+
+
+
+
+N2  - This paper presents key methodological results from a project on streamlining and integrating sample survey programmes. More specifically, it: Proposes a general modular framework and integrated survey systems (in concrete terms, i.e. with a specific set of surveys as the point of departure); Presents a toolbox (covering estimation, sample allocation and instrument composition) to deal with the methodological challenges associated with such integrated systems; and Indicates possible steps to upgrade statistical production systems from a collection of uncoordinated surveys to a harmonised integrated system of surveys. A concrete application of the 'instrument composition' part of the toolbox demonstrates how the EU Labour Force Survey, the EU Survey on Income and Living Conditions and the EU Adult Education Survey could be combined so as to improve flexibility (responding to new user needs), efficiency (greater precision or reduced costs) and transversality (capacity to combine variables from different statistical domains).
+ER  -
+TY  - JOUR
+AU  - Liotti, A.
+T1  - Experiences in application of the European Statistical System Business Registers recommendations manual
+JO  - Statistical Journal of the IAOS
+Y1  - 2018
+VL  - 34
+IS  - 3
+SP  - 313
+EP  - 316
+UR  - https://content.iospress.com/download/statistical-journal-of-the-iaos/sji170401?id=statistical-journal-of-the-iaos%2Fsji170401
+M3  - https://doi.org/10.3233/SJI-170401
+
+
+
+
+
+
+
+N2  - he main objectives of the Manual are: To provide guidelines for implementation of the EU Regulation; To support the harmonisation between the registers in the various Member States; To explain the Regulation's provisions. A recent survey has established that the statisticians in the European Statistical System dealing with the maintenance and development of national Statistical Business Registers find useful that they can find in the Manual the information necessary to allow the correct and consistent interpretation of the Regulation and recommendations on best practices of various countries in building and operating registers and in treatment of special cases. Users also appreciate that each chapter is capable of being read separately, whilst still forming part of a coherent set. The EU Regulation also legislates on the exchange of confidential data. This was the pillar on which was built the EuroGroups Register of multinational enterprise groups, managed by Eurostat with the participation of all European countries. A revision of the Manual will be necessary, in order to take on board the provisions of the upcoming new Regulation, as well as some new recommendations originated by the on-going Data Quality Programme for the Statistical Business Registers in the European Statistical System.
+ER  -
+TY  - JOUR
 AU  - Pantea, S.
 AU  - Biagi, F.
 AU  - Sabadash, A.
@@ -1298,6 +1666,48 @@ M3  - https://doi.org/10.1016/j.infoecopol.2017.03.002
 
 
 N2  - This paper examines the short run labour substitution effects of using ICT at firm-level in the manufacturing and services sectors in seven European countries, during the period 2007–2010. The data come from a unique dataset provided by the ESSLait Project on Linking Microdata, which contains internationally comparable data based on the production statistics linked at firm level with the novel ICT usage indicators. We adopt a standard conditional labour demand model and control for unobservable time-invariant firm-specific effects. The results show that ICT use has a statistically insignificant labour substitution effect and this effect is robust across countries, sectors and measures of ICT use. Our findings suggest that increased use of ICT within firms does not reduce the numbers of workers they employ.
+ER  -
+TY  - JOUR
+AU  - Proietti, T.
+AU  - Marczak, M.
+AU  - Mazzi, G.
+T1  - Euromind-D: A density estimate of monthly Gross Domestic Product for the Euro area
+JO  - Journal of Applied Econometrics
+Y1  - 2017
+VL  - 32
+IS  - 3
+SP  - 683
+EP  - 703
+UR  - https://onlinelibrary.wiley.com/doi/pdf/10.1002/jae.2556
+M3  - https://doi.org/10.1002/jae.2556
+
+
+
+
+
+
+
+N2  - EuroMInd-D is a density estimate of monthly gross domestic product (GDP) constructed according to a bottom-up approach, pooling the density estimates of 11 GDP components, by output and expenditure type. The components' density estimates are obtained from a medium-size dynamic factor model handling mixed frequencies of observation and ragged-edged data structures. They reflect both parameter and filtering uncertainty and are obtained by implementing a bootstrap algorithm for simulating from the distribution of the maximum likelihood estimators of the model parameters, and conditional simulation filters for simulating from the predictive distribution of GDP. Both algorithms process the data sequentially as they become available in real time. The GDP density estimates for the output and expenditure approach are combined using alternative weighting schemes and evaluated with different tests based on the probability integral transform and by applying scoring rules.
+ER  -
+TY  - JOUR
+AU  - Radermacher, W. J.
+T1  - Recent and future developments related to "GDP and Beyond"
+JO  - Review of Income and Wealth
+Y1  - 2015
+VL  - 61
+IS  - 1
+SP  - 18
+EP  - 24
+UR  - https://onlinelibrary.wiley.com/doi/full/10.1111/roiw.12135
+M3  - https://doi.org/10.1111/roiw.12135
+
+
+
+
+
+
+
+N2  - Progress of societies? Well-being of citizens? Trans-generational impact of policies? To answer such fundamental questions and much more, the European Commission published, in August 2009, its Communication on "GDP and Beyond: Measuring Progress in a Changing World." Through a co-operative project, co-chaired by Eurostat and INSEE (France), the ESS acted decisively and established an action plan to be carried out by 2020 in the context of the European Statistical Programme. This plan which also builds on Eurostat's work on Sustainable Development Indicators. For most of these actions, work has either been accomplished or is in good progress. Further challenges lie ahead, including reconciling macro- and micro-data sources on household economic resources and completing the indicators set on Quality-of-Life. The work will also contribute to the global efforts on the Sustainable Development Goals/post-2015 development agenda.
 ER  -
 TY  - JOUR
 AU  - Ruggeri Cannata, R.
@@ -1455,4 +1865,47 @@ M3  - https://doi.org/10.21570/EDGG.PG40
 
 
 N2  - The Land Use/Cover Area-Frame Survey (LUCAS) is a European inventory carried out every three years and coordinated by Eurostat. It aims to provide information for policy and science on land use, land cover and environmental parameters by surveying a statistically representative sample of points spread across the EU countries. In 2018, a new grassland module was piloted within the survey. This pilot aims to collect detailed information on the environmental and ecological quality of the grassland, as well as its type and intensity of use. Between April and July 2018, 3734 grassland points in 26 countries were surveyed using this standardised methodology. Of these points, 747 underwent an additional quality control to check the accuracy of the survey method. This is the first time a standardised methodology has been used to collect ecological data on grasslands in a coordinated manner over so wide a geographical range in Europe. The analysis of the data from this survey is ongoing, so the purpose of this article is to briefly describe the method used in the new grassland module and inform readers about how this pilot was developed.
+ER  -
+TY  - JOUR
+AU  - Vanhoof, M.
+AU  - Reis, F.
+AU  - Ploetz, T.
+AU  - Smoreda, Z.
+T1  - Assessing the quality of home detection from mobile phone data for official statistics
+JO  - Journal of Official Statistics
+Y1  - 2018
+VL  - 34
+IS  - 4
+SP  - 935
+EP  - 960
+UR  - https://content.sciendo.com/view/journals/jos/34/4/article-p935.xml
+M3  - https://doi.org/10.2478/jos-2018-0046
+
+
+
+
+
+
+
+N2  - Mobile phone data are an interesting new data source for official statistics. However, multiple problems and uncertainties need to be solved before these data can inform, support or even become an integral part of statistical production processes. In this article, we focus on arguably the most important problem hindering the application of mobile phone data in official statistics: Detecting home locations. We argue that current efforts to detect home locations suffer from a blind deployment of criteria to define a place of residence and from limited validation possibilities. We support our argument by analysing the performance of five home detection algorithms (HDAs) that have been applied to a large, French, Call Detailed Record (CDR) data set ( 18 million users, five months). Our results show that criteria choice in HDAs influences the detection of home locations for up to about 40% of users, that HDAs perform poorly when compared with a validation data set (resulting in 358-gap), and that their performance is sensitive to the time period and the duration of observation. Based on our findings and experiences, we offer several recommendations for official statistics. If adopted, our recommendations would help ensure more reliable use of mobile phone data vis-à-vis official statistics.
+ER  -
+TY  - JOUR
+AU  - Wirthmann, A.
+T1  - Big data im Europäischen Statistischen System – Beitrag zur Reaktion des Europäischen Statistischen System auf die big data-Herausforderung
+JO  - AStA Wirtschafts- und Sozialstatistisches Archiv
+Y1  - 2016
+VL  - 10
+IS  - 2-3
+SP  - 151
+EP  - 161
+UR  - https://link.springer.com/content/pdf/10.1007%2Fs11943-016-0195-z.pdf
+M3  - https://doi.org/10.1007/s11943-016-0195-z
+
+
+
+
+
+
+
+N2  - Starting with the Scheveningen Memorandum, Eurostat created an internal Task Force “Big Data” that is coordinating the activities of the European Statistical System (ESS) on Big Data. The activities are based on the Big Data Action Plan and Roadmap which was endorsed by the European Statistical System Committee in June 2014. The Action Plan identifies short, medium and long term objectives aiming at integrating big data sources into the production of European Statistics. The BIGD project makes part of the ESS Vision 2020 for modernising European Statistics. Pilots that investigate the potential of selected big data sources for European Statistics constitute the core part of the BIGD project. The pilots are conducted by a consortium of national statistical institutes, so called ESSnets, which are co-financed by the European Commission. The pilots are backed by a number of cross-cutting activities that analyse conditions of using big data by statistical institutes, such as analysis of the legal situation, ethical principles, skills and competences, and communication. The ESSnet started working in 2016, activities will terminate in 2019. The long term objective of the Big Data Action Plan and Roadmap is integrating big data into the portfolio of European Statistics. The ESS is closely collaborating with initiatives at UN level and with data for policy initiatives at the European Commission.
 ER  -
