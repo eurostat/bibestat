@@ -8,7 +8,7 @@ _Eurostat_ scientific footprint.
 
 This site provides with a non exhaustive list of **bibliographical references produced by _Eurostat_ staff in recent years**, _e.g._ contributions to journals, conference publications and reports. You can quickly browse through the publications (together with shortened abstracts) at [this proxy address](https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html). 
 
-<p align="center"><a href="https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html"><img src="docs/html.png" alt="html table" width="550" style="margin-left:auto;margin-right:auto;"></a></p>
+<p align="center"><a href="https://raw.githack.com/eurostat/bibestat/master/html/eurostatref.html"><img src="docs/html-tab.png" alt="html table of references" width="550" style="margin-left:auto;margin-right:auto;"></a></p>
  
 Also note the online presence of some of _Eurostat_ staff in online libraries, _e.g._ on **[_Scopus_](https://www.scopus.com/affil/profile.uri?afid=60072570)**, **[_Researchgate_](https://www.researchgate.net/institution/European_Commission/department/Eurostat_ESTAT)** (current staff only), _Google Scholar_, etc.... 
 
