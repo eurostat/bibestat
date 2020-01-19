@@ -22,6 +22,7 @@
             <year>2019</year>
             <editor>Crato, N. and Paruolo, P.</editor>
             <pages>87-99</pages>
+            <abstract>The chapter presents the European microdata access system. This system allows eligible researchers to analyse detailed data transmitted to Eurostat by national statistical offices in the European Union. Eurostat is a single entry point of access to such data. Individual data collected by national statistical offices to produce official statistics are strictly confidential. The data are anonymised and further processed before they can be made available for scientific purposes. Statistical offices are legally obliged to protect information received from individual respondents. They use this information solely to produce official statistics. The entities collecting data for other purposes (e.g. administrative, commercial or health) fall into the scope of personal data protection legislation. Statistical confidentiality measures are stricter than those resulting from personal data protection measures.</abstract>
             <doi>10.1007/978-3-319-78461-8</doi>
             <url>https://www.springer.com/gp/book/9783319784601</url>
         </incollection>
@@ -181,12 +182,103 @@
             <url>https://link.springer.com/content/pdf/10.1007\%2Fs11943-019-00249-5.pdf</url>
         </article>
     </entry>
+    <entry id="Luhmann19a">
+        <inproceedings>
+            <author>Luhmann, S.</author>
+            <title>A {E}uropean effort to explore games and the gamification of {O}fficial {S}tatistics</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1p2Dm-rJtbCz-f3oBwxaAKQfrSEuhsrIF}{Online presentation}</note>
+            <url>https://drive.google.com/open?id=1zKX5CmP1cNAkj5Q7cNTv52OPpKmmPFre</url>
+        </inproceedings>
+    </entry>
+    <entry id="Luhmann19b">
+        <inproceedings>
+            <author>Luhmann, S.</author>
+            <title>Let's talk! \textendash{} {C}ommunicating statistics across {E}urope through the {DIGICOM} programme</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1DsykQ-Gbq58b_yYYo6qh6nRLXWyW84_K}{Online presentation}</note>
+            <url>https://drive.google.com/file/d/1oP7TIroE2WoclloUG-tZyMAR_jWtA9_f</url>
+        </inproceedings>
+    </entry>
+    <entry id="Mehrhoff19">
+        <inproceedings>
+            <author>Mehrhoff, J.</author>
+            <title>Commercial real estate indicators: {P}rices and beyond</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <url>https://drive.google.com/file/d/1IKqaHrGnVrYzzOOGtkMzAn86pO1prx8G</url>
+        </inproceedings>
+    </entry>
     <entry id="SWFL19">
         <inproceedings>
             <author>Selenius, J. and Wirtz, C. and Florescu, D. and Lazar, A. C.</author>
             <title>Agricultural census 2020 \textendash{} {H}ow to reduce costs and burden? {T}he {E}uropean {S}tatistical {S}ystem approach</title>
             <booktitle>#C_ISI_WSC#</booktitle>
             <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1wpDtSm3qo7rMzlaevIFko-yiF3NUTu60}{Online presentation}</note>
+            <url>https://drive.google.com/file/d/1qn7tpfdR1QmqM-r-l8zLTpZP-gm2LnRu</url>
+        </inproceedings>
+    </entry>
+    <entry id="Wirtz19">
+        <inproceedings>
+            <author>Wirtz, C.</author>
+            <title>The role of {E}urostat in modernizing agricultural statistics</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1NOdE-GuW0HFVAxhWbVqdxCfYb4PXysiT}{Online presentation}</note>
+            <url>https://drive.google.com/file/d/14nWRjOg6iEToGeKTrlCCouah0Hwucrxe</url>
+        </inproceedings>
+    </entry>
+    <entry id="MMW19">
+        <inproceedings>
+            <author>Massarelli, N. and Mayer, C. and Wirtz, C.</author>
+            <title>Monitoring sustainable development in an {EU} context</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1hSDNnCPExgorPb9MhV0lABER_pieioIp}{Online presentation}</note>
+            <url>https://drive.google.com/file/d/1gR9GSPZit5Ko295QV4hlNL2lGqY_VxUm</url>
+        </inproceedings>
+    </entry>
+    <entry id="BB19">
+        <inproceedings>
+            <author>Barredo Capelot, E. and Buono, D.</author>
+            <title>Big data and macroeconomic nowcasting: {F}rom data access to modelling</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1pASec0imvsKHzuYOv9qVpleEeQLEjR0q}{Online presentation}</note>
+            <url>https://drive.google.com/open?id=15t6n54Qw98IAMzBKQ9dQwLC-nY9NOLkk</url>
+        </inproceedings>
+    </entry>
+    <entry id="OGT19">
+        <inproceedings>
+            <author>Oehler, F. and Grundiza, S. and Tartamella, F.</author>
+            <title>Income, consumption and wealth data integration \textendash{} {A} household perspective</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1sDdrYEI0-kjDXqmurbCYIzqM-bMdBUOs}{Online presentation}</note>
+            <url>https://drive.google.com/file/d/1SJEIAVDnDi7MYiZyqve7Gx-HOnlvv55q</url>
+        </inproceedings>
+    </entry>
+    <entry id="SP19">
+        <inproceedings>
+            <author>Santos, M. J. and Pereira de S\'a, C.</author>
+            <title>Parliament and {O}fficial {S}tatistics in a multinational context: {A}n {EU} perspective</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=12xuQj0JU_aagMWNYCmdIcLQk7Sy0LgkD}{Online presentation}</note>
+            <url>https://drive.google.com/file/d/181akUwggkrSvYXssPp53-REm_gCai_uH</url>
+        </inproceedings>
+    </entry>
+    <entry id="KRGR19">
+        <inproceedings>
+            <author>Kotseva, M. and Roubanis, N. and Gaffuri, J. and Reuter, H. I.</author>
+            <title>Implementing a geospatial data strategy in the {E}uropean {S}tatistical {S}ystem</title>
+            <booktitle>#C_ISI_WSC#</booktitle>
+            <year>2019</year>
+            <note>\href{https://drive.google.com/open?id=1pjQmPGMIneUzJZRKZVMKKyIrOxE2XDpf}{Online presentation}</note>
+            <url>https://drive.google.com/open?id=1XZxPjskLLyw5tgto1-ISqx2ymmQ_TDoj</url>
         </inproceedings>
     </entry>
     <entry id="SSEO19">
@@ -977,7 +1069,7 @@ The ESS Guidelines on Seasonal Adjustment address the need for harmonisation exp
             <url>https://link.springer.com/chapter/10.1007/978-3-540-87471-3_27</url>
         </inproceedings>
     </entry>
-    <entry id="GAF18">
+    <entry id="Gaffuri18">
         <inproceedings>
             <author>Gaffuri, J.</author>
             <title>Improving the quality of {O}fficial {S}tatistics with geographical disaggregation and dasymetric mapping: {T}wo {E}urostat experiments on tourism and population statistics</title>
@@ -987,12 +1079,13 @@ The ESS Guidelines on Seasonal Adjustment address the need for harmonisation exp
             <url>https://www.researchgate.net/publication/338609457_Improving_the_quality_of_official_statistics_with_geographical_disaggregation_based_on_dasymetric_mapping_Two_Eurostat_experiments_on_tourism_and_population_statistics</url>
         </inproceedings>
     </entry>
-    <entry id="GAF18_2">
+    <entry id="Gaffuri18b">
         <inproceedings>
             <author>Gaffuri, J.</author>
             <title>Generalising {O}pen{R}ailway{M}ap to 1:10k and 1:50k</title>
             <booktitle>#W_ICACGMR#</booktitle>
             <year>2018</year>
+            <abstract>Railway data in OpenStreetMap are represented with a very high geometrical level of detail (less than a meter resolution). Using this data for spatial analyses at the European scale requires a simplification of this data to a scale of approximatively 1:50k. For such generalisation, we propose first to select only few of the elements available in OpenStreetMap. A suitable filtering procedure is proposed. We propose then to analyse the graph structure to ensure the main components of the network are selected and topological mistakes are corrected. A 'stroke' analysis is performed to select the main network sections. Finally, dual carriage ways and triage areas are simplified using some specific geometrical algorithms. The results obtained on a selected area (Sweden) are promising.</abstract>
             <url>https://kartographie.geo.tu-dresden.de/downloads/ica-gen/workshop2018/ICA_Workshop_2018_railway_gaffuri.pdf</url>
         </inproceedings>
     </entry>
@@ -1012,7 +1105,7 @@ The ESS Guidelines on Seasonal Adjustment address the need for harmonisation exp
     </entry>
     <entry id="MABBCCDDKMNNVW12">
         <article>
-            <author>Madans, J. and Abou-Zahr, C. and Bercovich, A. and Boerma, T. and Carlton, D. and Castro, L. and Desmedt, M. and Domingo, E. and Kahimbaara, J. and Marquardt, M. and Nviiri, H. and Norgaard, E. and Vassenden, E. and Wolfson, M.</author>
+            <author>Madans, J. and Abou-Zahr, C. and Bercovich, A. and Boerma, T. and Carlton, D. and Castro, L. and De Smedt, M. and Domingo, E. and Kahimbaara, J. and Marquardt, M. and Nviiri, H. and Norgaard, E. and Vassenden, E. and Wolfson, M.</author>
             <title>Reshaping health statistics: {A} new framework</title>
             <journal>#J_SJIAOS#</journal>
             <year>2012</year>
@@ -1169,12 +1262,13 @@ The ESS Guidelines on Seasonal Adjustment address the need for harmonisation exp
             <year>2002</year>
             <volume>19</volume>
             <pages>1-3</pages>
+            <abstract>The papers which make up the first issue of the 2002 Statistical Journal were all presented and discussed at a joint ECE/Eurostat expert meeting hosted by Statistics Canada in Ottawa, 1–4 October 2001. They are but a sub-selection of the 32 papers discussed during the 6 sessions of the meeting.</abstract>
             <url>https://content.iospress.com/download/statistical-journal-of-the-united-nations-economic-commission-for-europe/sju00519?id=statistical-journal-of-the-united-nations-economic-commission-for-europe%2Fsju00519</url>
         </article>
     </entry>
-    <entry id="Smedt13">
+    <entry id="DeSmedt13">
         <article>
-            <author>de Smedt, M.</author>
+            <author>De Smedt, M.</author>
             <title>Measuring subjective issues of well-being and quality of life in the {E}uropean {S}tatistical {S}ystem</title>
             <journal>#J_SIR#</journal>
             <year>2013</year>
@@ -1183,7 +1277,7 @@ The ESS Guidelines on Seasonal Adjustment address the need for harmonisation exp
             <pages>153-167</pages>
             <abstract>Over the last decades, the European Statistical System has developed many European statistics and indicators to measure social progress and sustainable development. Initially only in a few cases the measuring instruments contained questions on subjective issues. With the adoption of its Communication on "gross domestic product and beyond" the Commission has given an impetus to the development of subjective social indicators. This has led to the establishment of a first set of indicators on quality of life and well-being and to a new instrument (the 2013 EU-SILC ad-hoc module for measuring subjective well-being). This new step in European statistics creates an important potential for researchers to engage in in-depth analysis and for national and European Union policy makers to use the resulting indicators-and in casu subjective well-being indicators-for developing and monitoring policy strategies and programmes.</abstract>
             <doi>10.1007/s11205-013-0389-5</doi>
-            <url>https://link.springer.com/article/10.1007/s11205-013-0389-5</url>
+            <url>https://link.sphttps://link.springer.com/content/pdf/10.1007%2Fs11205-013-0389-5.pdf</url>
         </article>
     </entry>
     <entry id="MS17">
@@ -1253,7 +1347,7 @@ The ESS Guidelines on Seasonal Adjustment address the need for harmonisation exp
             <note>\href{https://pubs.acs.org/doi/suppl/10.1021/es303217f/suppl_file/es303217f_si_002.pdf}{Additional material}</note>
             <abstract>Environmentally extended input output (EE IO) analysis is increasingly used to assess the carbon footprint of final consumption. Official EE IO data are, however, at best available for single countries or regions such as the EU27. This causes problems in assessing pollution embodied in imported products. The popular “domestic technology assumption (DTA)” leads to errors. Improved approaches based on Life Cycle Inventory data, Multiregional EE IO tables, etc. rely on unofficial research data and modeling, making them difficult to implement by statistical offices. The DTA can lead to errors for three main reasons: exporting countries can have higher impact intensities; may use more intermediate inputs for the same output; or may sell the imported products for lower/other prices than those produced domestically. The last factor is relevant for sustainable consumption policies of importing countries, whereas the first factors are mainly a matter of making production in exporting countries more eco-efficient. We elaborated a simple correction for price differences in imports and domestic production using monetary and physical data from official import and export statistics. A case study for the EU27 shows that this “price-adjusted DTA” gives a partial but meaningful adjustment of pollution embodied in trade compared to multiregional EE IO studies.</abstract>
             <doi>10.1021/es303217f</doi>
-            <url>https://pubs.acs.org/doi/full/10.1021/es303217f</url>
+            <url>https://pubs.acs.org/doi/pdf/10.1021/es303217f</url>
         </article>
     </entry>
 </file>
