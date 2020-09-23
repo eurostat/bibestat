@@ -18,13 +18,12 @@ jobs:
     - name: Convert BibTeX to BibJSON
       uses: ./.github/actions/estatbib2json
       with:
-        bibtex-fname: 'eurostatref'
+        bibtex-fname: 'eurostatref.bib'
     - name: Commit BibJSON file 
       uses: EndBug/add-and-commit@v4
       with:
         message: "updating bibjson"
         add: "eurostatref.json"
-        cwd: "./temp/"
         force: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
