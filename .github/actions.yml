@@ -1,0 +1,14 @@
+# action.yml
+# See https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action
+
+name: 'BibTeX to BibJSON'
+inputs:
+  bibtex-fname:
+    description: "Basename of Eurostat bibliography source file"
+    required: false
+    default: "eurostatref"
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.bibtex-fname }} 
