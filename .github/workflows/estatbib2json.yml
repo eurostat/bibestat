@@ -4,16 +4,39 @@ on:
   push:
     branches:
       - master
-    paths:
-      - '**.bib'
 
 jobs:
-  hello_world_job:
+  estatbib2json:
     runs-on: ubuntu-latest
     name: Running estatbib2json action
     steps:
-    - uses: actions/checkout@v2
-    - name: BibTeX to BibJSON step
+    - name: Checking out
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+	fetch-depth: 0
+	path: "./temp/"
+    - name: test1
+      run: echo "123" > ./temp/test.txt
+    - name: test2
+      uses: EndBug/add-and-commit@v4
+      with:
+        message: "test action"
+	add: "test.txt"
+	cwd: "./temp/"
+	force: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Convert BibTeX to BibJSON
       uses: ./.github/actions/estatbib2json
       with:
         bibtex-fname: 'eurostatref'
+    - name: Commit BibJSON file 
+      uses: EndBug/add-and-commit@v4
+      with:
+        message: "updating bibjson"
+	add: "eurostatref.json"
+	cwd: "./temp/"
+	force: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
