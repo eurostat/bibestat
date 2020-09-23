@@ -16,7 +16,7 @@ Also note the online presence of some of _Eurostat_ staff in online libraries, _
 
 **All _Eurostat_ bibliographical references are listed in the _BibTeX_ [`eurostatref.bib`](eurostatref.bib) bibliography database**. 
 
-**Contents**
+**Usage**
 
 To reference _Eurostat_ publications, you can use the source file above, for instance:
 
@@ -36,7 +36,7 @@ To reference _Eurostat_ publications, you can use the source file above, for ins
 
 * in `Microsoft Word` using the [`Bibtex4Word`](http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html) add-in macro.
 
-**Notes**
+**Bibliography management**
 
 Use your favourite [bibliography reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) to handle/manage/edit the bibliography database. For instance, using `JabRef` again:
 
@@ -46,3 +46,6 @@ Use your favourite [bibliography reference manager](https://en.wikipedia.org/wik
 </p>
 
 When adding a reference publication, use common [bibliography rules](https://en.wikipedia.org/wiki/Citation). Additionally, consider [standard `LaTeX` syntax](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management) for bibliography. Last, also take into account the existing strings (see header of `eurostatref.bib` bibliography database) for editing.
+
+**Bibliography export**
+
