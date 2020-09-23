@@ -13,3 +13,4 @@ jobs:
         uses: docker://pandoc/core:2.9
       - run: echo '::set-env name=LANG::en_US.UTF-8'
       - run: pandoc-citeproc --bib2json eurostatref.bib >  eurostatref.json
+        shell: bash
