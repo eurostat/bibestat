@@ -1,0 +1,29 @@
+name: Automated JSON bibliography creation from BibTeX file
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    inputs:
+      bibtex-file:
+        description: "Path to source Eurostat BibTeX bibliography"
+        required: false
+        default: "eurostatref.bib"
+    outputs:
+      json-file:
+        description: "Path to Eurostat JSON-like bibliography"
+        required: false
+        default: "eurostatref.json"
+    steps:
+      - name: Run pandoc-citeproc on eurostatref.bib
+      - env:
+        LANG: en_US.UTF-8
+      - uses: docker://pandoc/core:2.9
+      - run: |
+        pandoc-citeproc --bib2json ${{ inputs.bibtex-file }} >  ${{ outputs.json-file }}
+      - shell: bash
+
