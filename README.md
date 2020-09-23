@@ -49,4 +49,4 @@ When adding a reference publication, use common [bibliography rules](https://en.
 
 **Bibliography export**
 
-Generating a `JSON` file.
+Generating a `JSON` file. 
