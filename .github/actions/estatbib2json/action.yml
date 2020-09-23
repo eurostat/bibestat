@@ -6,7 +6,7 @@ inputs:
   bibtex-fname:
     description: "Basename of Eurostat bibliography source file"
     required: false
-    default: "eurostatref"
+    default: "eurostatref.bib"
 runs:
   using: 'docker'
   image: 'Dockerfile'
