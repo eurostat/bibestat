@@ -16,4 +16,4 @@ COPY entrypoint.sh /entrypoint.sh
 # COPY eurostatref.bib /eurostatref.bib
 
 # Code file to execute when the docker container starts up (`entrypoint.sh`)
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["sh","/entrypoint.sh"]
