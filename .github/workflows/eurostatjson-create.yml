@@ -6,11 +6,11 @@ on:
       - master
 
 jobs:
-  convert_via_pandoc:
+  hello_world_job:
     runs-on: ubuntu-latest
+    name: A job to say hello
     steps:
-      - name: Run pandoc-citeproc on eurostatref.bib
-        uses: docker://pandoc/core:2.9
-      - run: echo '::set-env name=LANG::en_US.UTF-8'
-      - run: pandoc-citeproc --bib2json eurostatref.bib >  eurostatref.json
-        shell: bash
+    - name: BibTeX to BibJSON step
+      uses: ./.github/actions/estatbib2json
+      with:
+        bibtex-fname: 'eurostatref'
