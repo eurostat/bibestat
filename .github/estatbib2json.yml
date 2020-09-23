@@ -1,0 +1,17 @@
+name: Automated JSON bibliography creation from BibTeX file
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  hello_world_job:
+    runs-on: ubuntu-latest
+    name: Running estatbib2json action
+    steps:
+    - uses: actions/checkout@v2
+    - name: BibTeX to BibJSON step
+      uses: ./.github/actions/estatbib2json
+      with:
+        bibtex-fname: 'eurostatref'
