@@ -13,7 +13,7 @@ FROM pandoc/core:2.9
 # Copy code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
 
-COPY ../../../eurostatref.bib /eurostatref.bib
+# COPY eurostatref.bib /eurostatref.bib
 
 # Code file to execute when the docker container starts up (`entrypoint.sh`)
 ENTRYPOINT ["/entrypoint.sh"]
