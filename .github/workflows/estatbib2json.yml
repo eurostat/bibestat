@@ -1,27 +1,46 @@
-name: Automated JSON bibliography creation from BibTeX file
+
+# Workflow for the automated JSON bibliography generation triggered from BibTeX file commit
+# The following steps are performed:
+#   - repository checkout
+#   - conversion to JSON through estatbib2json action running containerised pandoc-citeproc
+#   - commit of output file to main repository
+#   - TODO: emailing of action success/failure to user
+
+# credits: grazzja (Eurostat, Unit B1)
+# since: 09/20
+
+name: Automated JSON bibliography generation triggered from BibTeX file commit
 
 on:
   push:
-    branches:
+    branches: # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#onpushpull_requestbranchestags
       - master
+    paths: # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#onpushpull_requestpaths
+      - '**.bib'
 
 jobs:
-  estatbib2json:
+  estatbib2json: # action in the .github/actions
     runs-on: ubuntu-latest
     name: Running estatbib2json action
     steps:
     - name: Checking out
+      # see marketplace: https://github.com/marketplace/actions/checkout (https://github.com/actions/checkout)
       uses: actions/checkout@v2
       with:
         persist-credentials: false
         fetch-depth: 0
     - name: Convert BibTeX to BibJSON
       uses: ./.github/actions/estatbib2json
+      with:
+        bibtex-basename: 'eurostatref' 
     - name: Commit BibJSON file 
+      # see marketplace: https://github.com/marketplace/actions/add-commit (https://github.com/EndBug/add-and-commit)
       uses: EndBug/add-and-commit@v4
       with:
-        message: "updating bibjson"
-        add: "eurostatref.json"
+        message: "Automated bibjson creation"
+        add: '**.json'
         force: true
-      env:
+      env: # see https://docs.github.com/en/actions/reference/environment-variables
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+    - name: Inform user about success/failure
+      run: echo "Email sent" # using secrets.GITHUB_ACTOR? 
