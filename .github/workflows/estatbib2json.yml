@@ -42,5 +42,5 @@ jobs:
         force: true
       env: # see https://docs.github.com/en/actions/reference/environment-variables
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-    - name: Inform user about success/failure
+    - name: TODO Inform user about success/failure
       run: echo "Email sent" # using secrets.GITHUB_ACTOR? 
