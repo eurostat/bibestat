@@ -32,13 +32,13 @@ jobs:
     - name: Convert BibTeX to BibJSON
       uses: ./.github/actions/estatbib2json
       with:
-        bibtex-basename: 'eurostatref' 
+        bibtex-basename: 'eurostatref' # CHANGE HERE THE BASENAME IF NEEDED
     - name: Commit BibJSON file 
       # see marketplace: https://github.com/marketplace/actions/add-commit (https://github.com/EndBug/add-and-commit)
       uses: EndBug/add-and-commit@v4
       with:
         message: "Automated bibjson creation"
-        add: '**.json'
+        add: 'eurostatref.json' # CHANGE HERE THE FILENAME IF NEEDED
         force: true
       env: # see https://docs.github.com/en/actions/reference/environment-variables
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
