@@ -49,7 +49,7 @@ When adding a reference publication, use common [bibliography rules](https://en.
 
 **Bibliography export**
 
-Upon update (push) of the `eurostatref.bib` bibliography database on this page, a `JSON` file  `eurostatref.json` is automatically generated (see actions/workflows in folder [./github](./github)). In practice, the output file is produced with the `pandoc-citeproc` program, namely running the following command:
+Upon update (push) of the `eurostatref.bib` bibliography database on this page, a `JSON` file  `eurostatref.json` is automatically generated (see actions/workflows in folder [./.github](./.github)). In practice, the output file is produced with the `pandoc-citeproc` program, namely running the following command:
 ```bash
 pandoc-citeproc --bib2json eurostatref.bib > eurostatref.json
 ```
