@@ -51,6 +51,6 @@ When adding a reference publication, use common [bibliography rules](https://en.
 
 Upon update (push) of the `eurostatref.bib` bibliography database on this page, a `JSON` file  `eurostatref.json` is automatically generated (see `estatbib2json` actions/workflows in folder [./.github](./.github)). In practice, the output file is produced with the `pandoc-citeproc` program, namely running the following command:
 ```bash
-pandoc-citeproc --bib2json eurostatref.bib > eurostatref.json
+> pandoc-citeproc --bib2json eurostatref.bib > eurostatref.json
 ```
  
