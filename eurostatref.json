@@ -3703,5 +3703,28 @@
     "title": "Price corrected domestic technology assumption A method to assess pollution embodied in trade using primary Official Statistics only. With a case on CO2 emissions embodied in imports to Europe",
     "type": "article-journal",
     "volume": "47"
+  },
+  {
+    "author": [
+      {
+        "family": "Me",
+        "given": "I."
+      },
+      {
+        "family": "MYself.",
+        "given": "I"
+      }
+    ],
+    "container-title": "A journal",
+    "id": "MM20",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "A title",
+    "type": "article-journal"
   }
 ]
