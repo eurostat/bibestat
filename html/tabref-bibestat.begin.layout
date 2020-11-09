@@ -3,9 +3,16 @@
 <head>
 <title>Bibliographical references of <i>Eurostat</i> staff scientific production</title>
 <meta http-equiv="Content-Type" content="text/html; charset=\encoding">
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- <script src="http://community.wikidot.com/local--files/howto:sortable-tables-js/sorttable.js"></script> -->
+  <script src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+  
+<!-- see https://jsbin.com/enotac/2 -->
+<!-- see stakoverflow: https://stackoverflow.com/questions/17067294/html-table-with-100-width-with-vertical-scroll-inside-tbody and working demo: http://jsfiddle.net/hashem/CrSpu/554/ -->
+
 <script type="text/javascript">
-<!--
 // QuickSearch script for JabRef HTML export (no Abstract/BibTeX)
 // Version: 3.0
 //
@@ -257,7 +264,6 @@ function toggleSettings(){
 	}
 }
 
--->
 $(document).ready(function(){
   $('.ShortText').each(function (f) {
       if ($(this).text().length > 800) {
@@ -355,18 +361,18 @@ transform: translate(-50%, -10%);
 </ul>
 </div>
 </form>
-<table id="qs_table" border="1">
-<!--
-<thead><tr><th width="20%">Author</th><th width="30%">Title</th><th width="5%">Year</th><th width="30%">Journal/Proceedings</th><th width="10%">Reftype</th><th width="5%">DOI/URL</th></tr></thead>
--->
+
+<table id="qs_table" border="1" class="scroll">
+
 <thead><tr>
-<th width="3%"><center>Year</center></th>
+<th width="5%"><center>Year</center></th>
 <th width="4%">Link(s)</th>
 <th width="25%">Title</th>
-<th width="20%">Author(s)</th>
+<th width="19%">Author(s)</th>
 <th width="17%">Source</th>
-<th width="31%">Abstract</th>
+<th width="30%">Abstract</th>
 <!-- <th width="7%">Type</th> -->
 <!-- <th width="5%">Timestamp</th> -->
 </tr></thead>
+
 <tbody>
